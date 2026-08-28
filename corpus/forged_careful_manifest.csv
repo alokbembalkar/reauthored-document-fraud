@@ -1,0 +1,801 @@
+level,doc_type,file,producer,printed_date,file_creation_date,gap_days
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_115_L0_naive_0000.pdf,Microsoft® Word for Microsoft 365,2025-08-21,2026-04-27,249
+L0_naive,letter,forged_careful/L0_naive/letters/letter_251_L0_naive_0001.pdf,LibreOffice 7.5,2026-05-21,2026-08-24,95
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_105_L0_naive_0002.pdf,iLovePDF,2026-05-04,2026-07-25,82
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_433_L0_naive_0003.pdf,Microsoft® Word for Microsoft 365,2025-12-18,2026-02-23,67
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_224_L0_naive_0004.pdf,iLovePDF,2025-10-04,2025-12-09,66
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_204_L0_naive_0005.pdf,iLovePDF,2026-05-17,2026-10-31,167
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_460_L0_naive_0006.pdf,Microsoft® Word for Microsoft 365,2025-11-25,2026-08-06,254
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_715_L0_naive_0007.pdf,Canva,2025-11-14,2026-02-21,99
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_981_L0_naive_0008.pdf,Microsoft® Word for Microsoft 365,2025-12-06,2026-05-12,157
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_368_L0_naive_0009.pdf,Canva,2026-01-24,2026-10-17,266
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_748_L0_naive_0010.pdf,Microsoft® Word for Microsoft 365,2026-03-18,2027-01-08,296
+L0_naive,letter,forged_careful/L0_naive/letters/letter_081_L0_naive_0011.pdf,iLovePDF,2025-11-27,2026-04-11,135
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_634_L0_naive_0012.pdf,Canva,2026-05-13,2026-12-06,207
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_722_L0_naive_0013.pdf,LibreOffice 7.5,2025-07-19,2026-04-02,257
+L0_naive,letter,forged_careful/L0_naive/letters/letter_082_L0_naive_0014.pdf,LibreOffice 7.5,2026-06-28,2027-04-05,281
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_390_L0_naive_0015.pdf,Canva,2025-12-26,2026-04-06,101
+L0_naive,letter,forged_careful/L0_naive/letters/letter_364_L0_naive_0016.pdf,LibreOffice 7.5,2026-03-13,2026-10-30,231
+L0_naive,letter,forged_careful/L0_naive/letters/letter_719_L0_naive_0017.pdf,Microsoft® Word for Microsoft 365,2026-04-15,2026-11-16,215
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_176_L0_naive_0018.pdf,iLovePDF,2026-03-17,2026-11-18,246
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_168_L0_naive_0019.pdf,Canva,2025-10-20,2026-08-12,296
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_705_L0_naive_0020.pdf,iLovePDF,2025-12-19,2026-04-14,116
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_333_L0_naive_0021.pdf,Microsoft® Word for Microsoft 365,2026-06-05,2026-10-01,118
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_825_L0_naive_0022.pdf,Canva,2026-06-05,2026-08-20,76
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_936_L0_naive_0023.pdf,Canva,2025-12-01,2026-03-25,114
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_512_L0_naive_0024.pdf,Skia/PDF m120,2026-06-20,2027-04-02,286
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_470_L0_naive_0025.pdf,LibreOffice 7.5,2026-06-10,2026-10-15,127
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_253_L0_naive_0026.pdf,iLovePDF,2025-07-30,2025-12-04,127
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_599_L0_naive_0027.pdf,Skia/PDF m120,2026-06-23,2027-04-08,289
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_409_L0_naive_0028.pdf,Canva,2026-01-20,2026-05-16,116
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_522_L0_naive_0029.pdf,Microsoft® Word for Microsoft 365,2026-02-03,2026-11-10,280
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_157_L0_naive_0030.pdf,Skia/PDF m120,2026-03-25,2026-10-23,212
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_395_L0_naive_0031.pdf,Skia/PDF m120,2025-10-21,2026-05-04,195
+L0_naive,letter,forged_careful/L0_naive/letters/letter_995_L0_naive_0032.pdf,iLovePDF,2025-12-20,2026-09-26,280
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_697_L0_naive_0033.pdf,iLovePDF,2025-09-20,2026-05-30,252
+L0_naive,letter,forged_careful/L0_naive/letters/letter_788_L0_naive_0034.pdf,Canva,2025-09-11,2025-12-08,88
+L0_naive,letter,forged_careful/L0_naive/letters/letter_446_L0_naive_0035.pdf,LibreOffice 7.5,2025-07-24,2026-01-16,176
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_977_L0_naive_0036.pdf,Canva,2025-07-21,2026-01-25,188
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_520_L0_naive_0037.pdf,Canva,2026-07-01,2027-04-02,275
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_520_L0_naive_0038.pdf,iLovePDF,2025-07-28,2025-11-15,110
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_383_L0_naive_0039.pdf,iLovePDF,2026-07-27,2027-05-18,295
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_614_L0_naive_0040.pdf,Microsoft® Word for Microsoft 365,2026-01-31,2026-04-29,88
+L0_naive,letter,forged_careful/L0_naive/letters/letter_900_L0_naive_0041.pdf,Canva,2025-07-17,2025-11-15,121
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_247_L0_naive_0042.pdf,Microsoft® Word for Microsoft 365,2025-07-24,2026-03-28,247
+L0_naive,letter,forged_careful/L0_naive/letters/letter_836_L0_naive_0043.pdf,Microsoft® Word for Microsoft 365,2026-01-15,2026-09-26,254
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_785_L0_naive_0044.pdf,LibreOffice 7.5,2026-04-25,2026-07-26,92
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_487_L0_naive_0045.pdf,iLovePDF,2026-06-15,2026-09-25,102
+L0_naive,letter,forged_careful/L0_naive/letters/letter_541_L0_naive_0046.pdf,iLovePDF,2026-07-15,2026-12-30,168
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_952_L0_naive_0047.pdf,LibreOffice 7.5,2025-11-20,2026-07-20,242
+L0_naive,letter,forged_careful/L0_naive/letters/letter_409_L0_naive_0048.pdf,Canva,2026-08-02,2027-01-21,172
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_463_L0_naive_0049.pdf,Microsoft® Word for Microsoft 365,2025-10-01,2026-02-01,123
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_066_L0_naive_0050.pdf,iLovePDF,2026-06-05,2026-12-23,201
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_603_L0_naive_0051.pdf,Microsoft® Word for Microsoft 365,2025-10-08,2026-06-06,241
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_061_L0_naive_0052.pdf,LibreOffice 7.5,2025-08-06,2025-10-22,77
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_881_L0_naive_0053.pdf,iLovePDF,2025-08-21,2025-12-19,120
+L0_naive,letter,forged_careful/L0_naive/letters/letter_686_L0_naive_0054.pdf,Skia/PDF m120,2025-10-15,2026-02-06,114
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_136_L0_naive_0055.pdf,iLovePDF,2025-07-17,2026-02-09,207
+L0_naive,letter,forged_careful/L0_naive/letters/letter_249_L0_naive_0056.pdf,Skia/PDF m120,2025-08-26,2026-05-19,266
+L0_naive,letter,forged_careful/L0_naive/letters/letter_195_L0_naive_0057.pdf,Microsoft® Word for Microsoft 365,2025-10-02,2025-12-25,84
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_442_L0_naive_0058.pdf,Canva,2026-02-06,2026-07-24,168
+L0_naive,letter,forged_careful/L0_naive/letters/letter_479_L0_naive_0059.pdf,Microsoft® Word for Microsoft 365,2025-08-07,2026-03-27,232
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_662_L0_naive_0060.pdf,Microsoft® Word for Microsoft 365,2026-03-09,2026-05-23,75
+L0_naive,letter,forged_careful/L0_naive/letters/letter_746_L0_naive_0061.pdf,Canva,2026-01-28,2026-10-19,264
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_255_L0_naive_0062.pdf,iLovePDF,2026-04-11,2026-10-02,174
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_433_L0_naive_0063.pdf,Skia/PDF m120,2026-02-02,2026-06-05,123
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_454_L0_naive_0064.pdf,Microsoft® Word for Microsoft 365,2026-06-06,2027-01-18,226
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_857_L0_naive_0065.pdf,Microsoft® Word for Microsoft 365,2025-09-04,2025-11-26,83
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_171_L0_naive_0066.pdf,Skia/PDF m120,2025-11-05,2026-02-27,114
+L0_naive,letter,forged_careful/L0_naive/letters/letter_925_L0_naive_0067.pdf,Microsoft® Word for Microsoft 365,2025-08-09,2025-11-19,102
+L0_naive,letter,forged_careful/L0_naive/letters/letter_003_L0_naive_0068.pdf,Skia/PDF m120,2026-01-20,2026-05-27,127
+L0_naive,letter,forged_careful/L0_naive/letters/letter_293_L0_naive_0069.pdf,Skia/PDF m120,2026-07-05,2027-02-28,238
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_803_L0_naive_0070.pdf,iLovePDF,2025-10-20,2026-06-06,229
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_499_L0_naive_0071.pdf,LibreOffice 7.5,2025-11-14,2026-03-02,108
+L0_naive,letter,forged_careful/L0_naive/letters/letter_223_L0_naive_0072.pdf,Microsoft® Word for Microsoft 365,2026-07-12,2027-02-05,208
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_556_L0_naive_0073.pdf,Microsoft® Word for Microsoft 365,2026-02-28,2026-11-06,251
+L0_naive,letter,forged_careful/L0_naive/letters/letter_059_L0_naive_0074.pdf,Microsoft® Word for Microsoft 365,2026-03-03,2026-09-28,209
+L0_naive,letter,forged_careful/L0_naive/letters/letter_515_L0_naive_0075.pdf,iLovePDF,2026-06-20,2026-09-28,100
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_984_L0_naive_0076.pdf,LibreOffice 7.5,2025-12-22,2026-03-09,77
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_070_L0_naive_0077.pdf,LibreOffice 7.5,2026-01-03,2026-06-15,163
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_965_L0_naive_0078.pdf,iLovePDF,2025-11-15,2026-06-15,212
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_635_L0_naive_0079.pdf,iLovePDF,2025-11-09,2026-06-01,204
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_324_L0_naive_0080.pdf,Canva,2025-08-01,2025-11-21,112
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_734_L0_naive_0081.pdf,Canva,2026-07-12,2026-11-10,121
+L0_naive,letter,forged_careful/L0_naive/letters/letter_406_L0_naive_0082.pdf,LibreOffice 7.5,2026-04-20,2026-12-07,231
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_308_L0_naive_0083.pdf,Skia/PDF m120,2025-12-28,2026-05-17,140
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_010_L0_naive_0084.pdf,iLovePDF,2025-07-11,2025-10-04,85
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_551_L0_naive_0085.pdf,Canva,2025-11-10,2026-02-11,93
+L0_naive,letter,forged_careful/L0_naive/letters/letter_903_L0_naive_0086.pdf,Microsoft® Word for Microsoft 365,2025-09-16,2026-06-28,285
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_379_L0_naive_0087.pdf,Skia/PDF m120,2025-08-07,2026-05-07,273
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_721_L0_naive_0088.pdf,Canva,2026-03-14,2026-10-16,216
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_542_L0_naive_0089.pdf,Microsoft® Word for Microsoft 365,2025-12-18,2026-08-05,230
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_307_L0_naive_0090.pdf,Microsoft® Word for Microsoft 365,2026-07-21,2027-05-17,300
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_271_L0_naive_0091.pdf,iLovePDF,2026-06-06,2026-09-13,99
+L0_naive,letter,forged_careful/L0_naive/letters/letter_289_L0_naive_0092.pdf,iLovePDF,2026-01-15,2026-05-08,113
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_352_L0_naive_0093.pdf,LibreOffice 7.5,2025-07-29,2026-03-21,235
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_874_L0_naive_0094.pdf,Canva,2025-08-10,2026-02-15,189
+L0_naive,letter,forged_careful/L0_naive/letters/letter_258_L0_naive_0095.pdf,Microsoft® Word for Microsoft 365,2025-12-12,2026-03-05,83
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_434_L0_naive_0096.pdf,Canva,2025-09-04,2025-11-14,71
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_342_L0_naive_0097.pdf,Canva,2026-03-14,2026-06-23,101
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_453_L0_naive_0098.pdf,iLovePDF,2025-07-22,2026-03-19,240
+L0_naive,letter,forged_careful/L0_naive/letters/letter_575_L0_naive_0099.pdf,Microsoft® Word for Microsoft 365,2025-08-15,2025-11-11,88
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_968_L0_naive_0100.pdf,iLovePDF,2026-07-06,2026-09-13,69
+L0_naive,letter,forged_careful/L0_naive/letters/letter_597_L0_naive_0101.pdf,iLovePDF,2025-08-11,2025-11-16,97
+L0_naive,letter,forged_careful/L0_naive/letters/letter_131_L0_naive_0102.pdf,Microsoft® Word for Microsoft 365,2026-07-22,2026-12-07,138
+L0_naive,letter,forged_careful/L0_naive/letters/letter_921_L0_naive_0103.pdf,Microsoft® Word for Microsoft 365,2026-03-02,2026-12-17,290
+L0_naive,letter,forged_careful/L0_naive/letters/letter_216_L0_naive_0104.pdf,LibreOffice 7.5,2025-11-06,2026-06-24,230
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_363_L0_naive_0105.pdf,Skia/PDF m120,2025-08-23,2026-03-29,218
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_159_L0_naive_0106.pdf,LibreOffice 7.5,2025-07-13,2026-04-20,281
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_1000_L0_naive_0107.pdf,Microsoft® Word for Microsoft 365,2025-08-16,2025-11-29,105
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_947_L0_naive_0108.pdf,Canva,2025-08-26,2026-05-13,260
+L0_naive,letter,forged_careful/L0_naive/letters/letter_822_L0_naive_0109.pdf,LibreOffice 7.5,2025-07-28,2025-12-03,128
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_807_L0_naive_0110.pdf,Skia/PDF m120,2025-08-04,2026-05-14,283
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_880_L0_naive_0111.pdf,LibreOffice 7.5,2025-07-19,2026-04-14,269
+L0_naive,letter,forged_careful/L0_naive/letters/letter_359_L0_naive_0112.pdf,Canva,2025-10-06,2026-07-03,270
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_229_L0_naive_0113.pdf,LibreOffice 7.5,2026-07-01,2026-12-10,162
+L0_naive,letter,forged_careful/L0_naive/letters/letter_286_L0_naive_0114.pdf,Microsoft® Word for Microsoft 365,2025-11-05,2026-07-20,257
+L0_naive,letter,forged_careful/L0_naive/letters/letter_360_L0_naive_0115.pdf,iLovePDF,2026-07-05,2026-12-14,162
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_864_L0_naive_0116.pdf,iLovePDF,2026-07-15,2026-12-06,144
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_119_L0_naive_0117.pdf,iLovePDF,2026-01-28,2026-06-04,127
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_112_L0_naive_0118.pdf,Canva,2026-02-23,2026-10-27,246
+L0_naive,letter,forged_careful/L0_naive/letters/letter_447_L0_naive_0119.pdf,iLovePDF,2026-02-16,2026-08-25,190
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_395_L0_naive_0120.pdf,Canva,2025-10-21,2025-12-31,71
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_447_L0_naive_0121.pdf,Microsoft® Word for Microsoft 365,2025-12-22,2026-07-03,193
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_704_L0_naive_0122.pdf,LibreOffice 7.5,2026-01-21,2026-06-23,153
+L0_naive,letter,forged_careful/L0_naive/letters/letter_072_L0_naive_0123.pdf,Canva,2026-02-10,2026-09-17,219
+L0_naive,letter,forged_careful/L0_naive/letters/letter_680_L0_naive_0124.pdf,Microsoft® Word for Microsoft 365,2025-11-24,2026-07-26,244
+L0_naive,letter,forged_careful/L0_naive/letters/letter_520_L0_naive_0125.pdf,Canva,2025-09-06,2026-04-24,230
+L0_naive,letter,forged_careful/L0_naive/letters/letter_335_L0_naive_0126.pdf,Skia/PDF m120,2026-06-08,2027-02-01,238
+L0_naive,letter,forged_careful/L0_naive/letters/letter_568_L0_naive_0127.pdf,LibreOffice 7.5,2025-08-30,2025-12-17,109
+L0_naive,letter,forged_careful/L0_naive/letters/letter_681_L0_naive_0128.pdf,Skia/PDF m120,2026-02-17,2026-10-08,233
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_925_L0_naive_0129.pdf,LibreOffice 7.5,2025-09-21,2026-04-26,217
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_309_L0_naive_0130.pdf,Skia/PDF m120,2025-08-26,2026-03-14,200
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_312_L0_naive_0131.pdf,Skia/PDF m120,2026-07-13,2027-03-31,261
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_622_L0_naive_0132.pdf,Canva,2025-12-11,2026-06-08,179
+L0_naive,letter,forged_careful/L0_naive/letters/letter_453_L0_naive_0133.pdf,LibreOffice 7.5,2026-04-23,2026-10-30,190
+L0_naive,letter,forged_careful/L0_naive/letters/letter_813_L0_naive_0134.pdf,LibreOffice 7.5,2026-04-11,2026-11-25,228
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_291_L0_naive_0135.pdf,iLovePDF,2025-12-06,2026-04-30,145
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_839_L0_naive_0136.pdf,Canva,2026-05-30,2026-09-24,117
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_151_L0_naive_0137.pdf,LibreOffice 7.5,2025-12-27,2026-06-26,181
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_871_L0_naive_0138.pdf,Microsoft® Word for Microsoft 365,2025-08-27,2026-02-19,176
+L0_naive,letter,forged_careful/L0_naive/letters/letter_908_L0_naive_0139.pdf,iLovePDF,2025-09-02,2025-12-20,109
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_714_L0_naive_0140.pdf,Skia/PDF m120,2025-10-11,2026-04-15,186
+L0_naive,letter,forged_careful/L0_naive/letters/letter_250_L0_naive_0141.pdf,LibreOffice 7.5,2025-11-07,2026-06-22,227
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_006_L0_naive_0142.pdf,Microsoft® Word for Microsoft 365,2025-10-06,2026-06-22,259
+L0_naive,letter,forged_careful/L0_naive/letters/letter_225_L0_naive_0143.pdf,LibreOffice 7.5,2025-11-09,2026-08-01,265
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_531_L0_naive_0144.pdf,Skia/PDF m120,2026-05-08,2026-07-19,72
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_256_L0_naive_0145.pdf,Microsoft® Word for Microsoft 365,2026-06-30,2026-12-23,176
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_821_L0_naive_0146.pdf,iLovePDF,2026-01-11,2026-08-02,203
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_325_L0_naive_0147.pdf,Skia/PDF m120,2026-02-08,2026-09-12,216
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_914_L0_naive_0148.pdf,iLovePDF,2026-03-13,2026-08-29,169
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_457_L0_naive_0149.pdf,LibreOffice 7.5,2025-07-28,2026-04-04,250
+L0_naive,letter,forged_careful/L0_naive/letters/letter_461_L0_naive_0150.pdf,Canva,2025-12-22,2026-08-31,252
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_861_L0_naive_0151.pdf,iLovePDF,2026-07-02,2027-01-02,184
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_245_L0_naive_0152.pdf,Canva,2026-07-21,2027-01-09,172
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_731_L0_naive_0153.pdf,Canva,2026-05-06,2026-09-28,145
+L0_naive,letter,forged_careful/L0_naive/letters/letter_915_L0_naive_0154.pdf,iLovePDF,2026-03-02,2026-05-21,80
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_155_L0_naive_0155.pdf,LibreOffice 7.5,2026-04-09,2026-12-05,240
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_066_L0_naive_0156.pdf,Canva,2026-06-05,2026-12-20,198
+L0_naive,letter,forged_careful/L0_naive/letters/letter_426_L0_naive_0157.pdf,Microsoft® Word for Microsoft 365,2025-11-10,2026-03-02,112
+L0_naive,letter,forged_careful/L0_naive/letters/letter_399_L0_naive_0158.pdf,iLovePDF,2025-07-25,2026-03-20,238
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_878_L0_naive_0159.pdf,Skia/PDF m120,2025-09-22,2025-11-22,61
+L0_naive,letter,forged_careful/L0_naive/letters/letter_306_L0_naive_0160.pdf,Skia/PDF m120,2026-05-01,2027-02-03,278
+L0_naive,letter,forged_careful/L0_naive/letters/letter_552_L0_naive_0161.pdf,iLovePDF,2026-03-02,2026-11-21,264
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_920_L0_naive_0162.pdf,LibreOffice 7.5,2026-05-04,2026-11-04,184
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_280_L0_naive_0163.pdf,Microsoft® Word for Microsoft 365,2026-05-10,2026-10-16,159
+L0_naive,letter,forged_careful/L0_naive/letters/letter_685_L0_naive_0164.pdf,Skia/PDF m120,2026-07-22,2027-03-24,245
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_861_L0_naive_0165.pdf,iLovePDF,2026-07-02,2027-01-14,196
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_929_L0_naive_0166.pdf,iLovePDF,2026-01-12,2026-08-29,229
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_086_L0_naive_0167.pdf,LibreOffice 7.5,2026-01-26,2026-11-03,281
+L0_naive,letter,forged_careful/L0_naive/letters/letter_187_L0_naive_0168.pdf,Microsoft® Word for Microsoft 365,2025-08-14,2025-12-18,126
+L0_naive,letter,forged_careful/L0_naive/letters/letter_336_L0_naive_0169.pdf,LibreOffice 7.5,2026-07-10,2027-01-02,176
+L0_naive,letter,forged_careful/L0_naive/letters/letter_346_L0_naive_0170.pdf,Skia/PDF m120,2026-07-11,2026-11-19,131
+L0_naive,letter,forged_careful/L0_naive/letters/letter_259_L0_naive_0171.pdf,Microsoft® Word for Microsoft 365,2026-05-07,2026-11-03,180
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_768_L0_naive_0172.pdf,Canva,2026-05-18,2026-09-12,117
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_071_L0_naive_0173.pdf,Microsoft® Word for Microsoft 365,2026-07-17,2027-03-27,253
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_973_L0_naive_0174.pdf,Microsoft® Word for Microsoft 365,2026-02-28,2026-10-05,219
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_245_L0_naive_0175.pdf,Microsoft® Word for Microsoft 365,2026-04-16,2026-11-06,204
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_477_L0_naive_0176.pdf,Canva,2026-06-23,2026-10-03,102
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_622_L0_naive_0177.pdf,Microsoft® Word for Microsoft 365,2025-12-11,2026-08-27,259
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_988_L0_naive_0178.pdf,iLovePDF,2025-08-09,2025-10-14,66
+L0_naive,letter,forged_careful/L0_naive/letters/letter_590_L0_naive_0179.pdf,Skia/PDF m120,2026-03-18,2026-08-26,161
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_204_L0_naive_0180.pdf,Microsoft® Word for Microsoft 365,2026-05-17,2026-12-14,211
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_851_L0_naive_0181.pdf,LibreOffice 7.5,2025-07-26,2025-10-20,86
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_792_L0_naive_0182.pdf,Canva,2025-08-16,2026-05-20,277
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_615_L0_naive_0183.pdf,Microsoft® Word for Microsoft 365,2026-04-18,2027-01-06,263
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_802_L0_naive_0184.pdf,Microsoft® Word for Microsoft 365,2025-10-27,2026-03-24,148
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_439_L0_naive_0185.pdf,Canva,2026-07-12,2026-09-27,77
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_664_L0_naive_0186.pdf,Canva,2026-05-29,2026-07-31,63
+L0_naive,letter,forged_careful/L0_naive/letters/letter_843_L0_naive_0187.pdf,Skia/PDF m120,2026-02-07,2026-05-05,87
+L0_naive,letter,forged_careful/L0_naive/letters/letter_984_L0_naive_0188.pdf,Canva,2026-07-27,2027-03-06,222
+L0_naive,letter,forged_careful/L0_naive/letters/letter_725_L0_naive_0189.pdf,LibreOffice 7.5,2026-01-14,2026-07-04,171
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_752_L0_naive_0190.pdf,Canva,2026-03-26,2026-10-29,217
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_794_L0_naive_0191.pdf,Skia/PDF m120,2026-03-03,2026-08-29,179
+L0_naive,letter,forged_careful/L0_naive/letters/letter_846_L0_naive_0192.pdf,iLovePDF,2025-12-29,2026-05-06,128
+L0_naive,letter,forged_careful/L0_naive/letters/letter_873_L0_naive_0193.pdf,LibreOffice 7.5,2026-02-18,2026-11-17,272
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_286_L0_naive_0194.pdf,Skia/PDF m120,2026-08-10,2027-03-03,205
+L0_naive,medical,forged_careful/L0_naive/medicals/medical_685_L0_naive_0195.pdf,Skia/PDF m120,2025-10-28,2026-03-23,146
+L0_naive,invoice,forged_careful/L0_naive/invoices/invoice_507_L0_naive_0196.pdf,Skia/PDF m120,2025-08-13,2025-12-05,114
+L0_naive,letter,forged_careful/L0_naive/letters/letter_817_L0_naive_0197.pdf,Canva,2026-02-12,2026-07-09,147
+L0_naive,letter,forged_careful/L0_naive/letters/letter_902_L0_naive_0198.pdf,iLovePDF,2026-03-23,2026-11-17,239
+L0_naive,letter,forged_careful/L0_naive/letters/letter_570_L0_naive_0199.pdf,Microsoft® Word for Microsoft 365,2025-09-10,2026-03-21,192
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_088_L1_producer_spoof_0000.pdf,Oracle BI Publisher 12.2.1,2026-05-02,2026-11-03,185
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_777_L1_producer_spoof_0001.pdf,HRDesk Document Server 3.3.1,2025-08-09,2026-04-02,236
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_662_L1_producer_spoof_0002.pdf,JasperReports 6.20,2026-07-18,2027-01-19,185
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_812_L1_producer_spoof_0003.pdf,NimbusERP PDF Engine 4.2.7,2026-05-25,2026-08-16,83
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_227_L1_producer_spoof_0004.pdf,Oracle BI Publisher 12.2.1,2026-04-10,2026-12-03,237
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_314_L1_producer_spoof_0005.pdf,MediSys LIS Report Writer 8.1.0,2026-07-23,2027-01-20,181
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_544_L1_producer_spoof_0006.pdf,MediSys LIS Report Writer 8.1.0,2025-09-13,2026-02-28,168
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_564_L1_producer_spoof_0007.pdf,MediSys LIS Report Writer 8.1.0,2025-09-16,2026-02-13,150
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_465_L1_producer_spoof_0008.pdf,MediSys LIS Report Writer 8.1.0,2026-01-06,2026-05-24,138
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_237_L1_producer_spoof_0009.pdf,NimbusERP PDF Engine 4.2.7,2025-11-29,2026-07-31,244
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_324_L1_producer_spoof_0010.pdf,iText 7.2.5,2026-03-11,2026-11-21,255
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_190_L1_producer_spoof_0011.pdf,HRDesk Document Server 3.3.1,2026-04-05,2026-07-29,115
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_496_L1_producer_spoof_0012.pdf,MediSys LIS Report Writer 8.1.0,2025-09-25,2026-05-28,245
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_779_L1_producer_spoof_0013.pdf,iText 7.2.5,2026-02-17,2026-09-17,212
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_103_L1_producer_spoof_0014.pdf,HRDesk Document Server 3.3.1,2026-01-17,2026-06-01,135
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_370_L1_producer_spoof_0015.pdf,NimbusERP PDF Engine 4.2.7,2025-08-30,2026-04-28,241
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_130_L1_producer_spoof_0016.pdf,MediSys LIS Report Writer 8.1.0,2025-08-18,2025-10-28,71
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_567_L1_producer_spoof_0017.pdf,HRDesk Document Server 3.3.1,2026-05-11,2026-12-20,223
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_106_L1_producer_spoof_0018.pdf,NimbusERP PDF Engine 4.2.7,2025-10-27,2026-05-21,206
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_481_L1_producer_spoof_0019.pdf,Oracle BI Publisher 12.2.1,2026-02-13,2026-08-04,172
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_189_L1_producer_spoof_0020.pdf,NimbusERP PDF Engine 4.2.7,2025-11-16,2026-03-20,124
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_117_L1_producer_spoof_0021.pdf,NimbusERP PDF Engine 4.2.7,2025-09-12,2026-02-21,162
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_076_L1_producer_spoof_0022.pdf,iText 7.2.5,2025-11-11,2026-06-20,221
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_055_L1_producer_spoof_0023.pdf,HRDesk Document Server 3.3.1,2025-10-16,2026-01-22,98
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_972_L1_producer_spoof_0024.pdf,MediSys LIS Report Writer 8.1.0,2025-12-03,2026-02-22,81
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_122_L1_producer_spoof_0025.pdf,Oracle BI Publisher 12.2.1,2026-01-31,2026-09-03,215
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_810_L1_producer_spoof_0026.pdf,iText 7.2.5,2026-02-27,2026-06-24,117
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_390_L1_producer_spoof_0027.pdf,Oracle BI Publisher 12.2.1,2026-05-08,2027-02-24,292
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_305_L1_producer_spoof_0028.pdf,iText 7.2.5,2026-07-05,2026-12-21,169
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_583_L1_producer_spoof_0029.pdf,iText 7.2.5,2025-10-07,2025-12-21,75
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_984_L1_producer_spoof_0030.pdf,JasperReports 6.20,2025-10-03,2025-12-27,85
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_641_L1_producer_spoof_0031.pdf,JasperReports 6.20,2026-06-26,2026-09-14,80
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_246_L1_producer_spoof_0032.pdf,NimbusERP PDF Engine 4.2.7,2026-03-27,2026-07-05,100
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_419_L1_producer_spoof_0033.pdf,iText 7.2.5,2025-09-18,2026-03-17,180
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_034_L1_producer_spoof_0034.pdf,HRDesk Document Server 3.3.1,2026-07-19,2026-11-29,133
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_290_L1_producer_spoof_0035.pdf,JasperReports 6.20,2025-09-13,2026-06-20,280
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_073_L1_producer_spoof_0036.pdf,JasperReports 6.20,2026-03-28,2026-07-25,119
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_807_L1_producer_spoof_0037.pdf,JasperReports 6.20,2025-10-17,2026-05-15,210
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_824_L1_producer_spoof_0038.pdf,HRDesk Document Server 3.3.1,2025-09-18,2026-03-05,168
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_558_L1_producer_spoof_0039.pdf,HRDesk Document Server 3.3.1,2026-07-28,2027-05-16,292
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_847_L1_producer_spoof_0040.pdf,HRDesk Document Server 3.3.1,2026-01-21,2026-04-09,78
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_170_L1_producer_spoof_0041.pdf,JasperReports 6.20,2025-08-26,2026-05-24,271
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_944_L1_producer_spoof_0042.pdf,MediSys LIS Report Writer 8.1.0,2025-08-02,2026-01-21,172
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_480_L1_producer_spoof_0043.pdf,JasperReports 6.20,2026-07-07,2026-12-17,163
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_513_L1_producer_spoof_0044.pdf,iText 7.2.5,2025-08-28,2026-03-02,186
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_083_L1_producer_spoof_0045.pdf,iText 7.2.5,2026-01-07,2026-03-18,70
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_753_L1_producer_spoof_0046.pdf,MediSys LIS Report Writer 8.1.0,2025-11-18,2026-06-20,214
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_027_L1_producer_spoof_0047.pdf,NimbusERP PDF Engine 4.2.7,2026-05-10,2026-09-05,118
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_857_L1_producer_spoof_0048.pdf,iText 7.2.5,2025-09-04,2026-04-02,210
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_784_L1_producer_spoof_0049.pdf,MediSys LIS Report Writer 8.1.0,2026-05-13,2026-12-06,207
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_782_L1_producer_spoof_0050.pdf,iText 7.2.5,2026-03-03,2026-10-15,226
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_939_L1_producer_spoof_0051.pdf,MediSys LIS Report Writer 8.1.0,2026-07-29,2026-11-12,106
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_447_L1_producer_spoof_0052.pdf,JasperReports 6.20,2025-12-22,2026-09-16,268
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_993_L1_producer_spoof_0053.pdf,NimbusERP PDF Engine 4.2.7,2025-11-16,2026-05-15,180
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_419_L1_producer_spoof_0054.pdf,MediSys LIS Report Writer 8.1.0,2026-01-02,2026-05-24,142
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_108_L1_producer_spoof_0055.pdf,HRDesk Document Server 3.3.1,2025-11-04,2026-03-28,144
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_711_L1_producer_spoof_0056.pdf,Oracle BI Publisher 12.2.1,2026-04-18,2026-08-29,133
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_968_L1_producer_spoof_0057.pdf,Oracle BI Publisher 12.2.1,2026-02-08,2026-11-03,268
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_038_L1_producer_spoof_0058.pdf,Oracle BI Publisher 12.2.1,2025-11-30,2026-02-20,82
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_259_L1_producer_spoof_0059.pdf,MediSys LIS Report Writer 8.1.0,2026-05-07,2026-08-04,89
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_886_L1_producer_spoof_0060.pdf,iText 7.2.5,2026-03-23,2026-12-19,271
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_674_L1_producer_spoof_0061.pdf,Oracle BI Publisher 12.2.1,2026-04-22,2026-07-04,73
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_531_L1_producer_spoof_0062.pdf,Oracle BI Publisher 12.2.1,2026-05-23,2026-12-29,220
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_779_L1_producer_spoof_0063.pdf,NimbusERP PDF Engine 4.2.7,2026-06-16,2026-10-06,112
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_563_L1_producer_spoof_0064.pdf,HRDesk Document Server 3.3.1,2025-10-18,2026-08-11,297
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_449_L1_producer_spoof_0065.pdf,JasperReports 6.20,2026-05-10,2026-11-10,184
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_030_L1_producer_spoof_0066.pdf,HRDesk Document Server 3.3.1,2025-08-20,2026-04-18,241
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_319_L1_producer_spoof_0067.pdf,iText 7.2.5,2025-08-30,2026-02-10,164
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_231_L1_producer_spoof_0068.pdf,NimbusERP PDF Engine 4.2.7,2025-09-09,2026-04-22,225
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_511_L1_producer_spoof_0069.pdf,iText 7.2.5,2025-11-08,2026-07-06,240
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_426_L1_producer_spoof_0070.pdf,Oracle BI Publisher 12.2.1,2025-11-10,2026-05-09,180
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_468_L1_producer_spoof_0071.pdf,Oracle BI Publisher 12.2.1,2026-02-03,2026-05-22,108
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_521_L1_producer_spoof_0072.pdf,JasperReports 6.20,2025-11-25,2026-09-06,285
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_885_L1_producer_spoof_0073.pdf,Oracle BI Publisher 12.2.1,2025-10-13,2026-03-09,147
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_274_L1_producer_spoof_0074.pdf,NimbusERP PDF Engine 4.2.7,2026-08-07,2026-12-17,132
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_306_L1_producer_spoof_0075.pdf,iText 7.2.5,2026-06-16,2027-01-10,208
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_502_L1_producer_spoof_0076.pdf,HRDesk Document Server 3.3.1,2025-12-07,2026-05-30,174
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_496_L1_producer_spoof_0077.pdf,MediSys LIS Report Writer 8.1.0,2025-09-25,2026-02-17,145
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_782_L1_producer_spoof_0078.pdf,iText 7.2.5,2025-08-20,2026-01-23,156
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_956_L1_producer_spoof_0079.pdf,MediSys LIS Report Writer 8.1.0,2026-06-09,2027-03-18,282
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_715_L1_producer_spoof_0080.pdf,Oracle BI Publisher 12.2.1,2025-11-14,2026-03-13,119
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_045_L1_producer_spoof_0081.pdf,MediSys LIS Report Writer 8.1.0,2025-10-14,2026-06-21,250
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_723_L1_producer_spoof_0082.pdf,Oracle BI Publisher 12.2.1,2026-07-20,2026-12-25,158
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_812_L1_producer_spoof_0083.pdf,JasperReports 6.20,2026-06-29,2026-10-05,98
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_988_L1_producer_spoof_0084.pdf,NimbusERP PDF Engine 4.2.7,2025-07-20,2025-10-20,92
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_989_L1_producer_spoof_0085.pdf,iText 7.2.5,2026-06-08,2026-10-30,144
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_896_L1_producer_spoof_0086.pdf,iText 7.2.5,2026-05-20,2027-03-09,293
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_016_L1_producer_spoof_0087.pdf,JasperReports 6.20,2025-12-04,2026-03-10,96
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_892_L1_producer_spoof_0088.pdf,JasperReports 6.20,2026-04-26,2026-08-03,99
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_481_L1_producer_spoof_0089.pdf,iText 7.2.5,2026-05-20,2027-01-12,237
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_666_L1_producer_spoof_0090.pdf,NimbusERP PDF Engine 4.2.7,2025-12-10,2026-09-14,278
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_873_L1_producer_spoof_0091.pdf,JasperReports 6.20,2026-02-18,2026-11-24,279
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_390_L1_producer_spoof_0092.pdf,MediSys LIS Report Writer 8.1.0,2026-05-08,2026-12-14,220
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_909_L1_producer_spoof_0093.pdf,Oracle BI Publisher 12.2.1,2026-05-10,2027-02-17,283
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_037_L1_producer_spoof_0094.pdf,iText 7.2.5,2025-08-04,2025-10-20,77
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_647_L1_producer_spoof_0095.pdf,HRDesk Document Server 3.3.1,2026-08-08,2027-04-16,251
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_445_L1_producer_spoof_0096.pdf,JasperReports 6.20,2025-12-27,2026-08-24,240
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_455_L1_producer_spoof_0097.pdf,MediSys LIS Report Writer 8.1.0,2025-12-12,2026-09-29,291
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_048_L1_producer_spoof_0098.pdf,NimbusERP PDF Engine 4.2.7,2026-01-06,2026-05-21,135
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_384_L1_producer_spoof_0099.pdf,Oracle BI Publisher 12.2.1,2025-07-19,2025-10-24,97
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_544_L1_producer_spoof_0100.pdf,JasperReports 6.20,2026-07-12,2027-03-31,262
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_175_L1_producer_spoof_0101.pdf,iText 7.2.5,2025-08-15,2026-05-24,282
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_635_L1_producer_spoof_0102.pdf,JasperReports 6.20,2025-12-04,2026-04-04,121
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_935_L1_producer_spoof_0103.pdf,iText 7.2.5,2026-04-18,2026-07-23,96
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_473_L1_producer_spoof_0104.pdf,Oracle BI Publisher 12.2.1,2025-08-26,2025-12-29,125
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_010_L1_producer_spoof_0105.pdf,Oracle BI Publisher 12.2.1,2026-03-01,2026-12-16,290
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_694_L1_producer_spoof_0106.pdf,iText 7.2.5,2025-12-20,2026-03-30,100
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_453_L1_producer_spoof_0107.pdf,MediSys LIS Report Writer 8.1.0,2026-04-06,2026-11-15,223
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_707_L1_producer_spoof_0108.pdf,MediSys LIS Report Writer 8.1.0,2026-05-17,2026-11-09,176
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_204_L1_producer_spoof_0109.pdf,Oracle BI Publisher 12.2.1,2026-01-24,2026-10-29,278
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_110_L1_producer_spoof_0110.pdf,HRDesk Document Server 3.3.1,2025-08-19,2026-01-23,157
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_368_L1_producer_spoof_0111.pdf,iText 7.2.5,2025-12-01,2026-04-15,135
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_303_L1_producer_spoof_0112.pdf,NimbusERP PDF Engine 4.2.7,2025-08-01,2026-04-30,272
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_406_L1_producer_spoof_0113.pdf,MediSys LIS Report Writer 8.1.0,2025-11-10,2026-01-11,62
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_886_L1_producer_spoof_0114.pdf,JasperReports 6.20,2025-09-27,2026-06-13,259
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_997_L1_producer_spoof_0115.pdf,NimbusERP PDF Engine 4.2.7,2026-03-09,2026-12-27,293
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_764_L1_producer_spoof_0116.pdf,Oracle BI Publisher 12.2.1,2026-05-10,2027-02-07,273
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_795_L1_producer_spoof_0117.pdf,HRDesk Document Server 3.3.1,2026-07-02,2027-02-02,215
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_225_L1_producer_spoof_0118.pdf,JasperReports 6.20,2025-11-09,2026-02-25,108
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_257_L1_producer_spoof_0119.pdf,JasperReports 6.20,2025-10-04,2026-06-14,253
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_786_L1_producer_spoof_0120.pdf,JasperReports 6.20,2025-09-05,2026-04-27,234
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_644_L1_producer_spoof_0121.pdf,JasperReports 6.20,2026-08-07,2026-10-16,70
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_808_L1_producer_spoof_0122.pdf,Oracle BI Publisher 12.2.1,2026-07-05,2026-09-11,68
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_374_L1_producer_spoof_0123.pdf,JasperReports 6.20,2025-10-12,2026-01-13,93
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_932_L1_producer_spoof_0124.pdf,JasperReports 6.20,2026-06-04,2026-11-17,166
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_206_L1_producer_spoof_0125.pdf,iText 7.2.5,2026-06-02,2027-03-13,284
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_544_L1_producer_spoof_0126.pdf,iText 7.2.5,2025-10-30,2026-08-19,293
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_851_L1_producer_spoof_0127.pdf,HRDesk Document Server 3.3.1,2025-12-13,2026-04-17,125
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_991_L1_producer_spoof_0128.pdf,MediSys LIS Report Writer 8.1.0,2026-06-27,2027-03-05,251
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_824_L1_producer_spoof_0129.pdf,NimbusERP PDF Engine 4.2.7,2025-10-08,2026-04-05,179
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_145_L1_producer_spoof_0130.pdf,JasperReports 6.20,2026-07-26,2027-03-28,245
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_407_L1_producer_spoof_0131.pdf,iText 7.2.5,2026-06-04,2026-11-04,153
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_810_L1_producer_spoof_0132.pdf,MediSys LIS Report Writer 8.1.0,2026-01-09,2026-07-25,197
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_466_L1_producer_spoof_0133.pdf,JasperReports 6.20,2025-08-24,2026-04-13,232
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_599_L1_producer_spoof_0134.pdf,Oracle BI Publisher 12.2.1,2026-02-02,2026-10-30,270
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_963_L1_producer_spoof_0135.pdf,MediSys LIS Report Writer 8.1.0,2026-02-21,2026-05-19,87
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_240_L1_producer_spoof_0136.pdf,Oracle BI Publisher 12.2.1,2025-10-20,2025-12-25,66
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_906_L1_producer_spoof_0137.pdf,iText 7.2.5,2025-07-19,2025-12-09,143
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_227_L1_producer_spoof_0138.pdf,JasperReports 6.20,2026-06-11,2026-08-26,76
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_844_L1_producer_spoof_0139.pdf,Oracle BI Publisher 12.2.1,2025-09-23,2026-07-12,292
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_310_L1_producer_spoof_0140.pdf,JasperReports 6.20,2026-02-12,2026-07-26,164
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_144_L1_producer_spoof_0141.pdf,MediSys LIS Report Writer 8.1.0,2025-09-02,2026-03-07,186
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_100_L1_producer_spoof_0142.pdf,HRDesk Document Server 3.3.1,2026-01-21,2026-06-29,159
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_380_L1_producer_spoof_0143.pdf,JasperReports 6.20,2026-06-13,2027-02-18,250
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_969_L1_producer_spoof_0144.pdf,iText 7.2.5,2026-06-21,2026-12-05,167
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_761_L1_producer_spoof_0145.pdf,JasperReports 6.20,2025-09-28,2026-01-05,99
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_671_L1_producer_spoof_0146.pdf,NimbusERP PDF Engine 4.2.7,2026-03-02,2026-11-30,273
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_631_L1_producer_spoof_0147.pdf,Oracle BI Publisher 12.2.1,2025-08-10,2026-06-06,300
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_034_L1_producer_spoof_0148.pdf,JasperReports 6.20,2026-07-19,2026-12-20,154
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_455_L1_producer_spoof_0149.pdf,MediSys LIS Report Writer 8.1.0,2025-12-12,2026-03-07,85
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_377_L1_producer_spoof_0150.pdf,iText 7.2.5,2026-03-01,2026-12-16,290
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_368_L1_producer_spoof_0151.pdf,NimbusERP PDF Engine 4.2.7,2025-12-01,2026-05-11,161
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_195_L1_producer_spoof_0152.pdf,NimbusERP PDF Engine 4.2.7,2025-10-02,2026-07-06,277
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_094_L1_producer_spoof_0153.pdf,JasperReports 6.20,2025-12-28,2026-04-21,114
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_655_L1_producer_spoof_0154.pdf,iText 7.2.5,2026-01-23,2026-03-29,65
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_806_L1_producer_spoof_0155.pdf,HRDesk Document Server 3.3.1,2025-07-13,2026-03-31,261
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_211_L1_producer_spoof_0156.pdf,NimbusERP PDF Engine 4.2.7,2026-07-23,2027-04-21,272
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_213_L1_producer_spoof_0157.pdf,iText 7.2.5,2025-11-12,2026-03-07,115
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_337_L1_producer_spoof_0158.pdf,iText 7.2.5,2026-01-17,2026-03-18,60
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_880_L1_producer_spoof_0159.pdf,HRDesk Document Server 3.3.1,2025-09-27,2025-12-29,93
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_257_L1_producer_spoof_0160.pdf,HRDesk Document Server 3.3.1,2025-10-04,2025-12-31,88
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_888_L1_producer_spoof_0161.pdf,NimbusERP PDF Engine 4.2.7,2025-12-05,2026-03-08,93
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_367_L1_producer_spoof_0162.pdf,MediSys LIS Report Writer 8.1.0,2025-12-21,2026-02-23,64
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_272_L1_producer_spoof_0163.pdf,JasperReports 6.20,2026-01-17,2026-07-03,167
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_117_L1_producer_spoof_0164.pdf,JasperReports 6.20,2026-05-23,2026-08-07,76
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_460_L1_producer_spoof_0165.pdf,MediSys LIS Report Writer 8.1.0,2025-11-17,2026-05-27,191
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_112_L1_producer_spoof_0166.pdf,Oracle BI Publisher 12.2.1,2026-05-25,2026-11-29,188
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_969_L1_producer_spoof_0167.pdf,JasperReports 6.20,2025-08-19,2026-05-06,260
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_534_L1_producer_spoof_0168.pdf,MediSys LIS Report Writer 8.1.0,2026-07-25,2027-01-18,177
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_988_L1_producer_spoof_0169.pdf,NimbusERP PDF Engine 4.2.7,2026-07-25,2026-10-08,75
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_868_L1_producer_spoof_0170.pdf,Oracle BI Publisher 12.2.1,2025-09-13,2026-03-01,169
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_111_L1_producer_spoof_0171.pdf,Oracle BI Publisher 12.2.1,2026-01-01,2026-08-31,242
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_076_L1_producer_spoof_0172.pdf,NimbusERP PDF Engine 4.2.7,2025-11-11,2026-04-02,142
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_152_L1_producer_spoof_0173.pdf,NimbusERP PDF Engine 4.2.7,2026-08-03,2026-11-03,92
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_640_L1_producer_spoof_0174.pdf,JasperReports 6.20,2025-08-15,2026-03-12,209
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_730_L1_producer_spoof_0175.pdf,MediSys LIS Report Writer 8.1.0,2026-05-08,2026-10-12,157
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_544_L1_producer_spoof_0176.pdf,MediSys LIS Report Writer 8.1.0,2025-09-13,2026-03-08,176
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_620_L1_producer_spoof_0177.pdf,Oracle BI Publisher 12.2.1,2026-01-15,2026-04-10,85
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_118_L1_producer_spoof_0178.pdf,JasperReports 6.20,2025-10-13,2026-05-27,226
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_739_L1_producer_spoof_0179.pdf,HRDesk Document Server 3.3.1,2025-10-13,2026-04-01,170
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_910_L1_producer_spoof_0180.pdf,HRDesk Document Server 3.3.1,2026-04-17,2026-09-29,165
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_848_L1_producer_spoof_0181.pdf,Oracle BI Publisher 12.2.1,2026-03-27,2026-09-05,162
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_748_L1_producer_spoof_0182.pdf,NimbusERP PDF Engine 4.2.7,2025-07-29,2025-12-16,140
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_321_L1_producer_spoof_0183.pdf,JasperReports 6.20,2026-03-28,2026-07-31,125
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_977_L1_producer_spoof_0184.pdf,HRDesk Document Server 3.3.1,2025-09-24,2026-05-17,235
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_069_L1_producer_spoof_0185.pdf,NimbusERP PDF Engine 4.2.7,2025-10-07,2026-07-06,272
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_096_L1_producer_spoof_0186.pdf,JasperReports 6.20,2026-06-10,2027-02-14,249
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_832_L1_producer_spoof_0187.pdf,HRDesk Document Server 3.3.1,2025-08-23,2026-03-13,202
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_601_L1_producer_spoof_0188.pdf,MediSys LIS Report Writer 8.1.0,2026-05-29,2027-01-15,231
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_421_L1_producer_spoof_0189.pdf,JasperReports 6.20,2025-09-09,2026-07-06,300
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_889_L1_producer_spoof_0190.pdf,JasperReports 6.20,2026-03-27,2026-06-08,73
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_615_L1_producer_spoof_0191.pdf,MediSys LIS Report Writer 8.1.0,2026-04-19,2026-09-16,150
+L1_producer_spoof,invoice,forged_careful/L1_producer_spoof/invoices/invoice_592_L1_producer_spoof_0192.pdf,HRDesk Document Server 3.3.1,2025-09-08,2026-04-24,228
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_230_L1_producer_spoof_0193.pdf,NimbusERP PDF Engine 4.2.7,2025-09-21,2026-02-17,149
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_377_L1_producer_spoof_0194.pdf,NimbusERP PDF Engine 4.2.7,2026-03-01,2026-11-11,255
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_588_L1_producer_spoof_0195.pdf,HRDesk Document Server 3.3.1,2025-12-14,2026-09-06,266
+L1_producer_spoof,letter,forged_careful/L1_producer_spoof/letters/letter_866_L1_producer_spoof_0196.pdf,iText 7.2.5,2026-07-26,2027-04-08,256
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_629_L1_producer_spoof_0197.pdf,JasperReports 6.20,2025-08-28,2026-04-09,224
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_027_L1_producer_spoof_0198.pdf,iText 7.2.5,2026-01-24,2026-11-17,297
+L1_producer_spoof,medical,forged_careful/L1_producer_spoof/medicals/medical_850_L1_producer_spoof_0199.pdf,JasperReports 6.20,2026-01-29,2026-06-06,128
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_185_L2_date_spoof_0000.pdf,Canva,2026-04-29,2026-05-28,29
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_360_L2_date_spoof_0001.pdf,Microsoft® Word for Microsoft 365,2026-07-05,2026-07-10,5
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_580_L2_date_spoof_0002.pdf,Microsoft® Word for Microsoft 365,2026-03-10,2026-03-14,4
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_649_L2_date_spoof_0003.pdf,Microsoft® Word for Microsoft 365,2025-11-12,2025-11-14,2
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_544_L2_date_spoof_0004.pdf,LibreOffice 7.5,2025-09-13,2025-09-25,12
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_465_L2_date_spoof_0005.pdf,Canva,2025-11-16,2025-11-21,5
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_320_L2_date_spoof_0006.pdf,Canva,2026-01-15,2026-02-08,24
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_611_L2_date_spoof_0007.pdf,Microsoft® Word for Microsoft 365,2026-04-11,2026-05-09,28
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_160_L2_date_spoof_0008.pdf,iLovePDF,2026-06-29,2026-06-30,1
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_084_L2_date_spoof_0009.pdf,Canva,2025-11-19,2025-12-03,14
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_435_L2_date_spoof_0010.pdf,Skia/PDF m120,2026-05-26,2026-06-14,19
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_425_L2_date_spoof_0011.pdf,Canva,2026-02-27,2026-03-05,6
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_117_L2_date_spoof_0012.pdf,Canva,2026-05-23,2026-06-05,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_291_L2_date_spoof_0013.pdf,iLovePDF,2025-12-06,2025-12-21,15
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_684_L2_date_spoof_0014.pdf,Canva,2026-01-09,2026-01-10,1
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_405_L2_date_spoof_0015.pdf,Microsoft® Word for Microsoft 365,2026-04-27,2026-05-03,6
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_969_L2_date_spoof_0016.pdf,LibreOffice 7.5,2025-12-17,2026-01-10,24
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_783_L2_date_spoof_0017.pdf,Canva,2025-07-11,2025-07-14,3
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_510_L2_date_spoof_0018.pdf,LibreOffice 7.5,2026-02-10,2026-02-14,4
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_546_L2_date_spoof_0019.pdf,LibreOffice 7.5,2026-07-26,2026-08-11,16
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_854_L2_date_spoof_0020.pdf,Canva,2026-04-30,2026-05-02,2
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_883_L2_date_spoof_0021.pdf,Microsoft® Word for Microsoft 365,2026-07-09,2026-07-22,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_471_L2_date_spoof_0022.pdf,Canva,2025-08-26,2025-09-13,18
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_588_L2_date_spoof_0023.pdf,Skia/PDF m120,2025-12-14,2026-01-05,22
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_428_L2_date_spoof_0024.pdf,Canva,2025-09-22,2025-09-25,3
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_022_L2_date_spoof_0025.pdf,Canva,2026-05-16,2026-05-21,5
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_472_L2_date_spoof_0026.pdf,Canva,2025-09-24,2025-09-26,2
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_865_L2_date_spoof_0027.pdf,Microsoft® Word for Microsoft 365,2025-12-27,2026-01-03,7
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_604_L2_date_spoof_0028.pdf,Skia/PDF m120,2025-10-25,2025-11-10,16
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_406_L2_date_spoof_0029.pdf,Canva,2026-04-13,2026-04-20,7
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_798_L2_date_spoof_0030.pdf,LibreOffice 7.5,2026-03-29,2026-03-31,2
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_649_L2_date_spoof_0031.pdf,Microsoft® Word for Microsoft 365,2025-11-12,2025-11-28,16
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_199_L2_date_spoof_0032.pdf,Canva,2025-09-11,2025-09-22,11
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_982_L2_date_spoof_0033.pdf,LibreOffice 7.5,2025-09-13,2025-09-20,7
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_150_L2_date_spoof_0034.pdf,LibreOffice 7.5,2026-08-06,2026-08-25,19
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_779_L2_date_spoof_0035.pdf,LibreOffice 7.5,2026-06-17,2026-07-17,30
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_506_L2_date_spoof_0036.pdf,Skia/PDF m120,2026-03-23,2026-04-16,24
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_779_L2_date_spoof_0037.pdf,iLovePDF,2026-02-17,2026-03-03,14
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_947_L2_date_spoof_0038.pdf,iLovePDF,2025-08-26,2025-09-15,20
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_640_L2_date_spoof_0039.pdf,Canva,2025-12-11,2026-01-07,27
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_324_L2_date_spoof_0040.pdf,LibreOffice 7.5,2025-08-01,2025-08-15,14
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_481_L2_date_spoof_0041.pdf,Canva,2026-05-20,2026-06-14,25
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_606_L2_date_spoof_0042.pdf,Microsoft® Word for Microsoft 365,2026-06-12,2026-06-23,11
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_076_L2_date_spoof_0043.pdf,Canva,2026-02-02,2026-02-16,14
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_039_L2_date_spoof_0044.pdf,Microsoft® Word for Microsoft 365,2025-12-13,2025-12-24,11
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_079_L2_date_spoof_0045.pdf,Microsoft® Word for Microsoft 365,2026-04-17,2026-05-06,19
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_520_L2_date_spoof_0046.pdf,Skia/PDF m120,2025-07-28,2025-08-11,14
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_568_L2_date_spoof_0047.pdf,Microsoft® Word for Microsoft 365,2026-01-26,2026-02-09,14
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_668_L2_date_spoof_0048.pdf,LibreOffice 7.5,2025-09-08,2025-09-18,10
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_488_L2_date_spoof_0049.pdf,iLovePDF,2026-05-21,2026-05-25,4
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_462_L2_date_spoof_0050.pdf,Canva,2026-07-11,2026-08-02,22
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_517_L2_date_spoof_0051.pdf,Microsoft® Word for Microsoft 365,2025-09-05,2025-09-12,7
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_449_L2_date_spoof_0052.pdf,Skia/PDF m120,2026-07-27,2026-08-12,16
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_625_L2_date_spoof_0053.pdf,LibreOffice 7.5,2025-08-04,2025-08-15,11
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_940_L2_date_spoof_0054.pdf,Canva,2025-12-20,2026-01-01,12
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_794_L2_date_spoof_0055.pdf,Canva,2026-05-23,2026-06-13,21
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_054_L2_date_spoof_0056.pdf,Canva,2025-11-15,2025-11-17,2
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_097_L2_date_spoof_0057.pdf,iLovePDF,2025-11-10,2025-12-01,21
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_291_L2_date_spoof_0058.pdf,Canva,2025-07-25,2025-08-17,23
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_988_L2_date_spoof_0059.pdf,iLovePDF,2026-07-25,2026-08-21,27
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_342_L2_date_spoof_0060.pdf,LibreOffice 7.5,2026-03-14,2026-04-12,29
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_318_L2_date_spoof_0061.pdf,Skia/PDF m120,2025-10-26,2025-10-30,4
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_726_L2_date_spoof_0062.pdf,Microsoft® Word for Microsoft 365,2025-08-13,2025-08-22,9
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_386_L2_date_spoof_0063.pdf,Canva,2026-06-01,2026-06-27,26
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_687_L2_date_spoof_0064.pdf,iLovePDF,2026-02-13,2026-02-15,2
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_687_L2_date_spoof_0065.pdf,Skia/PDF m120,2026-02-03,2026-02-19,16
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_019_L2_date_spoof_0066.pdf,Canva,2026-04-09,2026-04-18,9
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_974_L2_date_spoof_0067.pdf,Skia/PDF m120,2025-07-30,2025-08-05,6
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_141_L2_date_spoof_0068.pdf,Canva,2026-06-06,2026-07-03,27
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_520_L2_date_spoof_0069.pdf,iLovePDF,2026-07-01,2026-07-02,1
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_345_L2_date_spoof_0070.pdf,iLovePDF,2026-06-10,2026-06-14,4
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_386_L2_date_spoof_0071.pdf,LibreOffice 7.5,2026-06-01,2026-06-06,5
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_852_L2_date_spoof_0072.pdf,iLovePDF,2025-09-14,2025-10-09,25
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_739_L2_date_spoof_0073.pdf,Skia/PDF m120,2026-01-02,2026-01-13,11
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_737_L2_date_spoof_0074.pdf,LibreOffice 7.5,2025-12-03,2025-12-17,14
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_292_L2_date_spoof_0075.pdf,Skia/PDF m120,2025-08-21,2025-08-28,7
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_245_L2_date_spoof_0076.pdf,Canva,2026-07-21,2026-08-20,30
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_926_L2_date_spoof_0077.pdf,LibreOffice 7.5,2025-08-02,2025-08-13,11
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_970_L2_date_spoof_0078.pdf,iLovePDF,2026-01-23,2026-02-06,14
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_788_L2_date_spoof_0079.pdf,Canva,2025-09-11,2025-10-05,24
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_515_L2_date_spoof_0080.pdf,iLovePDF,2026-06-20,2026-07-03,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_837_L2_date_spoof_0081.pdf,iLovePDF,2025-12-20,2025-12-24,4
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_054_L2_date_spoof_0082.pdf,Skia/PDF m120,2026-05-07,2026-06-03,27
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_568_L2_date_spoof_0083.pdf,Microsoft® Word for Microsoft 365,2025-08-30,2025-09-21,22
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_872_L2_date_spoof_0084.pdf,Microsoft® Word for Microsoft 365,2025-07-24,2025-08-02,9
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_782_L2_date_spoof_0085.pdf,Skia/PDF m120,2026-03-03,2026-03-31,28
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_151_L2_date_spoof_0086.pdf,Skia/PDF m120,2025-08-06,2025-08-08,2
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_837_L2_date_spoof_0087.pdf,Microsoft® Word for Microsoft 365,2025-12-20,2026-01-02,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_406_L2_date_spoof_0088.pdf,LibreOffice 7.5,2026-04-13,2026-04-25,12
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_384_L2_date_spoof_0089.pdf,Canva,2025-12-03,2026-01-01,29
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_860_L2_date_spoof_0090.pdf,Canva,2025-09-16,2025-10-11,25
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_141_L2_date_spoof_0091.pdf,Skia/PDF m120,2026-06-06,2026-06-28,22
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_778_L2_date_spoof_0092.pdf,Skia/PDF m120,2025-12-19,2026-01-07,19
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_928_L2_date_spoof_0093.pdf,Canva,2026-04-28,2026-05-04,6
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_562_L2_date_spoof_0094.pdf,iLovePDF,2026-08-08,2026-08-21,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_795_L2_date_spoof_0095.pdf,Canva,2025-08-29,2025-09-01,3
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_245_L2_date_spoof_0096.pdf,iLovePDF,2026-04-16,2026-04-30,14
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_114_L2_date_spoof_0097.pdf,iLovePDF,2026-01-20,2026-01-20,0
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_528_L2_date_spoof_0098.pdf,iLovePDF,2026-06-15,2026-06-22,7
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_148_L2_date_spoof_0099.pdf,Canva,2025-12-17,2025-12-30,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_630_L2_date_spoof_0100.pdf,iLovePDF,2025-07-20,2025-08-02,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_681_L2_date_spoof_0101.pdf,iLovePDF,2026-07-18,2026-07-29,11
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_977_L2_date_spoof_0102.pdf,iLovePDF,2025-07-21,2025-08-15,25
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_568_L2_date_spoof_0103.pdf,Microsoft® Word for Microsoft 365,2026-01-26,2026-02-07,12
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_045_L2_date_spoof_0104.pdf,Skia/PDF m120,2025-10-14,2025-10-25,11
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_766_L2_date_spoof_0105.pdf,Microsoft® Word for Microsoft 365,2026-07-15,2026-07-26,11
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_354_L2_date_spoof_0106.pdf,Microsoft® Word for Microsoft 365,2026-07-16,2026-08-09,24
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_753_L2_date_spoof_0107.pdf,Canva,2025-09-11,2025-09-15,4
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_361_L2_date_spoof_0108.pdf,LibreOffice 7.5,2026-06-27,2026-07-23,26
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_476_L2_date_spoof_0109.pdf,Skia/PDF m120,2025-07-15,2025-08-04,20
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_831_L2_date_spoof_0110.pdf,Skia/PDF m120,2025-11-26,2025-11-27,1
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_207_L2_date_spoof_0111.pdf,Microsoft® Word for Microsoft 365,2025-09-01,2025-09-26,25
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_908_L2_date_spoof_0112.pdf,Canva,2025-10-11,2025-10-27,16
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_835_L2_date_spoof_0113.pdf,iLovePDF,2025-11-12,2025-11-27,15
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_038_L2_date_spoof_0114.pdf,LibreOffice 7.5,2026-01-28,2026-02-06,9
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_883_L2_date_spoof_0115.pdf,Microsoft® Word for Microsoft 365,2026-07-09,2026-08-05,27
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_340_L2_date_spoof_0116.pdf,Canva,2026-07-06,2026-07-09,3
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_448_L2_date_spoof_0117.pdf,Skia/PDF m120,2025-11-12,2025-12-05,23
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_917_L2_date_spoof_0118.pdf,Skia/PDF m120,2026-07-29,2026-08-08,10
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_509_L2_date_spoof_0119.pdf,Canva,2026-03-07,2026-04-05,29
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_274_L2_date_spoof_0120.pdf,Microsoft® Word for Microsoft 365,2026-08-07,2026-08-30,23
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_081_L2_date_spoof_0121.pdf,Skia/PDF m120,2025-11-27,2025-12-16,19
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_559_L2_date_spoof_0122.pdf,Microsoft® Word for Microsoft 365,2026-05-29,2026-05-31,2
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_677_L2_date_spoof_0123.pdf,Canva,2026-07-24,2026-08-02,9
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_618_L2_date_spoof_0124.pdf,Skia/PDF m120,2026-07-22,2026-07-27,5
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_455_L2_date_spoof_0125.pdf,Canva,2026-06-04,2026-06-18,14
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_745_L2_date_spoof_0126.pdf,Skia/PDF m120,2025-12-24,2026-01-01,8
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_811_L2_date_spoof_0127.pdf,Microsoft® Word for Microsoft 365,2026-01-30,2026-02-01,2
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_653_L2_date_spoof_0128.pdf,Skia/PDF m120,2025-07-27,2025-08-07,11
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_821_L2_date_spoof_0129.pdf,LibreOffice 7.5,2025-10-28,2025-11-27,30
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_147_L2_date_spoof_0130.pdf,Skia/PDF m120,2026-04-08,2026-04-09,1
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_069_L2_date_spoof_0131.pdf,Canva,2025-08-29,2025-09-09,11
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_973_L2_date_spoof_0132.pdf,iLovePDF,2025-10-24,2025-10-25,1
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_158_L2_date_spoof_0133.pdf,Skia/PDF m120,2026-04-30,2026-05-30,30
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_381_L2_date_spoof_0134.pdf,Skia/PDF m120,2025-11-30,2025-12-24,24
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_588_L2_date_spoof_0135.pdf,Canva,2026-02-05,2026-02-17,12
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_666_L2_date_spoof_0136.pdf,Canva,2025-12-10,2025-12-17,7
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_027_L2_date_spoof_0137.pdf,Skia/PDF m120,2026-01-20,2026-02-05,16
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_936_L2_date_spoof_0138.pdf,iLovePDF,2026-05-17,2026-05-20,3
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_794_L2_date_spoof_0139.pdf,Canva,2026-05-23,2026-06-14,22
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_220_L2_date_spoof_0140.pdf,iLovePDF,2026-01-08,2026-01-17,9
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_939_L2_date_spoof_0141.pdf,Skia/PDF m120,2025-08-03,2025-08-09,6
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_139_L2_date_spoof_0142.pdf,LibreOffice 7.5,2025-08-15,2025-09-12,28
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_456_L2_date_spoof_0143.pdf,Microsoft® Word for Microsoft 365,2026-07-16,2026-08-10,25
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_991_L2_date_spoof_0144.pdf,Canva,2025-08-06,2025-08-27,21
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_727_L2_date_spoof_0145.pdf,Microsoft® Word for Microsoft 365,2025-08-23,2025-09-09,17
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_298_L2_date_spoof_0146.pdf,Canva,2026-03-31,2026-04-27,27
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_729_L2_date_spoof_0147.pdf,LibreOffice 7.5,2025-09-26,2025-10-21,25
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_521_L2_date_spoof_0148.pdf,LibreOffice 7.5,2026-05-30,2026-06-02,3
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_812_L2_date_spoof_0149.pdf,Skia/PDF m120,2025-11-05,2025-11-05,0
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_568_L2_date_spoof_0150.pdf,iLovePDF,2025-08-30,2025-09-10,11
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_823_L2_date_spoof_0151.pdf,iLovePDF,2026-07-18,2026-07-22,4
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_906_L2_date_spoof_0152.pdf,Microsoft® Word for Microsoft 365,2025-07-19,2025-07-21,2
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_408_L2_date_spoof_0153.pdf,Skia/PDF m120,2025-08-31,2025-09-16,16
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_788_L2_date_spoof_0154.pdf,Skia/PDF m120,2025-09-11,2025-10-07,26
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_076_L2_date_spoof_0155.pdf,LibreOffice 7.5,2026-02-02,2026-02-12,10
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_076_L2_date_spoof_0156.pdf,Skia/PDF m120,2026-02-02,2026-02-16,14
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_530_L2_date_spoof_0157.pdf,Canva,2026-01-22,2026-01-26,4
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_656_L2_date_spoof_0158.pdf,iLovePDF,2025-09-05,2025-09-10,5
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_444_L2_date_spoof_0159.pdf,Microsoft® Word for Microsoft 365,2025-09-17,2025-10-13,26
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_531_L2_date_spoof_0160.pdf,LibreOffice 7.5,2026-05-23,2026-05-28,5
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_958_L2_date_spoof_0161.pdf,LibreOffice 7.5,2026-04-13,2026-04-24,11
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_917_L2_date_spoof_0162.pdf,Canva,2026-06-20,2026-07-17,27
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_257_L2_date_spoof_0163.pdf,iLovePDF,2025-09-18,2025-09-26,8
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_641_L2_date_spoof_0164.pdf,iLovePDF,2026-06-26,2026-06-28,2
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_657_L2_date_spoof_0165.pdf,LibreOffice 7.5,2026-01-15,2026-02-02,18
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_158_L2_date_spoof_0166.pdf,LibreOffice 7.5,2026-04-30,2026-05-21,21
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_738_L2_date_spoof_0167.pdf,iLovePDF,2026-07-27,2026-08-06,10
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_043_L2_date_spoof_0168.pdf,Microsoft® Word for Microsoft 365,2025-10-18,2025-10-20,2
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_972_L2_date_spoof_0169.pdf,iLovePDF,2026-07-05,2026-07-13,8
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_216_L2_date_spoof_0170.pdf,iLovePDF,2026-06-11,2026-06-24,13
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_655_L2_date_spoof_0171.pdf,Microsoft® Word for Microsoft 365,2026-01-23,2026-02-07,15
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_559_L2_date_spoof_0172.pdf,Canva,2026-01-27,2026-02-16,20
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_495_L2_date_spoof_0173.pdf,LibreOffice 7.5,2025-12-14,2026-01-08,25
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_416_L2_date_spoof_0174.pdf,Canva,2025-12-09,2025-12-23,14
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_706_L2_date_spoof_0175.pdf,Skia/PDF m120,2026-04-25,2026-05-08,13
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_476_L2_date_spoof_0176.pdf,LibreOffice 7.5,2025-09-29,2025-10-09,10
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_148_L2_date_spoof_0177.pdf,Canva,2025-12-17,2026-01-13,27
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_327_L2_date_spoof_0178.pdf,Canva,2026-01-25,2026-02-06,12
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_779_L2_date_spoof_0179.pdf,iLovePDF,2026-06-17,2026-06-20,3
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_248_L2_date_spoof_0180.pdf,Skia/PDF m120,2026-08-01,2026-08-04,3
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_461_L2_date_spoof_0181.pdf,LibreOffice 7.5,2025-12-22,2025-12-26,4
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_052_L2_date_spoof_0182.pdf,iLovePDF,2026-05-02,2026-05-15,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_986_L2_date_spoof_0183.pdf,Canva,2026-04-17,2026-05-16,29
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_739_L2_date_spoof_0184.pdf,Canva,2025-10-13,2025-10-19,6
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_511_L2_date_spoof_0185.pdf,Skia/PDF m120,2025-11-08,2025-12-06,28
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_510_L2_date_spoof_0186.pdf,Microsoft® Word for Microsoft 365,2025-10-18,2025-10-20,2
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_518_L2_date_spoof_0187.pdf,Skia/PDF m120,2026-07-23,2026-08-22,30
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_221_L2_date_spoof_0188.pdf,Microsoft® Word for Microsoft 365,2025-09-24,2025-09-25,1
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_507_L2_date_spoof_0189.pdf,iLovePDF,2026-04-04,2026-05-02,28
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_689_L2_date_spoof_0190.pdf,Skia/PDF m120,2026-03-15,2026-03-24,9
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_009_L2_date_spoof_0191.pdf,Microsoft® Word for Microsoft 365,2026-05-19,2026-06-01,13
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_904_L2_date_spoof_0192.pdf,Canva,2025-12-12,2026-01-05,24
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_375_L2_date_spoof_0193.pdf,Microsoft® Word for Microsoft 365,2025-11-09,2025-11-21,12
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_584_L2_date_spoof_0194.pdf,Canva,2025-09-09,2025-09-26,17
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_076_L2_date_spoof_0195.pdf,Skia/PDF m120,2025-11-11,2025-11-27,16
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_783_L2_date_spoof_0196.pdf,iLovePDF,2026-03-21,2026-03-29,8
+L2_date_spoof,medical,forged_careful/L2_date_spoof/medicals/medical_697_L2_date_spoof_0197.pdf,iLovePDF,2025-07-27,2025-07-30,3
+L2_date_spoof,invoice,forged_careful/L2_date_spoof/invoices/invoice_999_L2_date_spoof_0198.pdf,Canva,2025-09-11,2025-10-06,25
+L2_date_spoof,letter,forged_careful/L2_date_spoof/letters/letter_572_L2_date_spoof_0199.pdf,Canva,2026-05-08,2026-06-01,24
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_204_L3_full_coherent_0000.pdf,Oracle BI Publisher 12.2.1,2026-01-06,2026-01-22,16
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_047_L3_full_coherent_0001.pdf,JasperReports 6.20,2026-08-06,2026-08-16,10
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_532_L3_full_coherent_0002.pdf,Oracle BI Publisher 12.2.1,2026-02-26,2026-03-02,4
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_915_L3_full_coherent_0003.pdf,iText 7.2.5,2026-03-30,2026-04-03,4
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_954_L3_full_coherent_0004.pdf,iText 7.2.5,2026-05-02,2026-05-12,10
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_403_L3_full_coherent_0005.pdf,MediSys LIS Report Writer 8.1.0,2025-11-27,2025-12-15,18
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_520_L3_full_coherent_0006.pdf,iText 7.2.5,2025-09-06,2025-09-23,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_726_L3_full_coherent_0007.pdf,iText 7.2.5,2025-10-06,2025-10-15,9
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_836_L3_full_coherent_0008.pdf,NimbusERP PDF Engine 4.2.7,2026-01-15,2026-01-26,11
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_690_L3_full_coherent_0009.pdf,NimbusERP PDF Engine 4.2.7,2026-03-06,2026-03-19,13
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_316_L3_full_coherent_0010.pdf,JasperReports 6.20,2026-01-29,2026-02-18,20
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_612_L3_full_coherent_0011.pdf,JasperReports 6.20,2026-05-16,2026-06-03,18
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_234_L3_full_coherent_0012.pdf,JasperReports 6.20,2025-10-22,2025-10-23,1
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_492_L3_full_coherent_0013.pdf,HRDesk Document Server 3.3.1,2025-11-25,2025-12-11,16
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_739_L3_full_coherent_0014.pdf,iText 7.2.5,2025-10-13,2025-10-25,12
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_842_L3_full_coherent_0015.pdf,NimbusERP PDF Engine 4.2.7,2026-06-01,2026-06-19,18
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_113_L3_full_coherent_0016.pdf,HRDesk Document Server 3.3.1,2026-08-05,2026-08-05,0
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_322_L3_full_coherent_0017.pdf,Oracle BI Publisher 12.2.1,2026-07-23,2026-07-27,4
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_708_L3_full_coherent_0018.pdf,HRDesk Document Server 3.3.1,2026-04-30,2026-05-13,13
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_794_L3_full_coherent_0019.pdf,iText 7.2.5,2026-03-03,2026-03-18,15
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_745_L3_full_coherent_0020.pdf,NimbusERP PDF Engine 4.2.7,2025-08-30,2025-09-03,4
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_213_L3_full_coherent_0021.pdf,iText 7.2.5,2025-11-12,2025-11-22,10
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_490_L3_full_coherent_0022.pdf,iText 7.2.5,2026-03-21,2026-04-02,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_980_L3_full_coherent_0023.pdf,HRDesk Document Server 3.3.1,2026-01-06,2026-01-20,14
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_351_L3_full_coherent_0024.pdf,iText 7.2.5,2025-12-10,2025-12-21,11
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_791_L3_full_coherent_0025.pdf,JasperReports 6.20,2026-08-06,2026-08-26,20
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_271_L3_full_coherent_0026.pdf,iText 7.2.5,2026-03-26,2026-04-10,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_981_L3_full_coherent_0027.pdf,iText 7.2.5,2025-12-06,2025-12-15,9
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_965_L3_full_coherent_0028.pdf,MediSys LIS Report Writer 8.1.0,2025-11-15,2025-11-21,6
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_722_L3_full_coherent_0029.pdf,Oracle BI Publisher 12.2.1,2026-03-05,2026-03-15,10
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_358_L3_full_coherent_0030.pdf,iText 7.2.5,2025-08-18,2025-08-26,8
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_125_L3_full_coherent_0031.pdf,iText 7.2.5,2026-02-14,2026-03-03,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_918_L3_full_coherent_0032.pdf,Oracle BI Publisher 12.2.1,2025-07-20,2025-07-31,11
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_298_L3_full_coherent_0033.pdf,JasperReports 6.20,2026-04-03,2026-04-05,2
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_947_L3_full_coherent_0034.pdf,Oracle BI Publisher 12.2.1,2026-06-30,2026-07-20,20
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_766_L3_full_coherent_0035.pdf,Oracle BI Publisher 12.2.1,2026-07-15,2026-07-21,6
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_848_L3_full_coherent_0036.pdf,iText 7.2.5,2026-05-11,2026-05-19,8
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_112_L3_full_coherent_0037.pdf,iText 7.2.5,2026-02-23,2026-03-02,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_052_L3_full_coherent_0038.pdf,HRDesk Document Server 3.3.1,2026-05-02,2026-05-22,20
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_054_L3_full_coherent_0039.pdf,MediSys LIS Report Writer 8.1.0,2026-05-03,2026-05-18,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_698_L3_full_coherent_0040.pdf,iText 7.2.5,2026-02-17,2026-02-22,5
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_669_L3_full_coherent_0041.pdf,Oracle BI Publisher 12.2.1,2025-08-21,2025-09-05,15
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_205_L3_full_coherent_0042.pdf,MediSys LIS Report Writer 8.1.0,2026-05-22,2026-06-01,10
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_662_L3_full_coherent_0043.pdf,NimbusERP PDF Engine 4.2.7,2026-07-18,2026-07-20,2
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_588_L3_full_coherent_0044.pdf,HRDesk Document Server 3.3.1,2025-12-26,2026-01-12,17
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_741_L3_full_coherent_0045.pdf,NimbusERP PDF Engine 4.2.7,2026-08-04,2026-08-09,5
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_904_L3_full_coherent_0046.pdf,HRDesk Document Server 3.3.1,2026-03-28,2026-03-29,1
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_807_L3_full_coherent_0047.pdf,Oracle BI Publisher 12.2.1,2025-10-17,2025-10-22,5
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_986_L3_full_coherent_0048.pdf,MediSys LIS Report Writer 8.1.0,2026-06-30,2026-07-01,1
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_306_L3_full_coherent_0049.pdf,NimbusERP PDF Engine 4.2.7,2025-09-22,2025-10-02,10
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_466_L3_full_coherent_0050.pdf,JasperReports 6.20,2025-08-09,2025-08-26,17
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_506_L3_full_coherent_0051.pdf,HRDesk Document Server 3.3.1,2026-03-23,2026-04-08,16
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_280_L3_full_coherent_0052.pdf,HRDesk Document Server 3.3.1,2025-12-26,2025-12-29,3
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_167_L3_full_coherent_0053.pdf,JasperReports 6.20,2025-10-25,2025-11-08,14
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_264_L3_full_coherent_0054.pdf,JasperReports 6.20,2026-01-06,2026-01-11,5
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_755_L3_full_coherent_0055.pdf,MediSys LIS Report Writer 8.1.0,2025-07-31,2025-08-18,18
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_776_L3_full_coherent_0056.pdf,HRDesk Document Server 3.3.1,2026-02-17,2026-02-22,5
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_877_L3_full_coherent_0057.pdf,JasperReports 6.20,2025-10-21,2025-11-02,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_528_L3_full_coherent_0058.pdf,MediSys LIS Report Writer 8.1.0,2026-03-01,2026-03-03,2
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_686_L3_full_coherent_0059.pdf,NimbusERP PDF Engine 4.2.7,2025-10-15,2025-10-20,5
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_489_L3_full_coherent_0060.pdf,NimbusERP PDF Engine 4.2.7,2025-10-04,2025-10-12,8
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_242_L3_full_coherent_0061.pdf,Oracle BI Publisher 12.2.1,2026-02-19,2026-02-27,8
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_310_L3_full_coherent_0062.pdf,iText 7.2.5,2026-01-23,2026-02-10,18
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_268_L3_full_coherent_0063.pdf,JasperReports 6.20,2026-04-05,2026-04-12,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_684_L3_full_coherent_0064.pdf,MediSys LIS Report Writer 8.1.0,2026-02-23,2026-02-28,5
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_703_L3_full_coherent_0065.pdf,iText 7.2.5,2025-11-27,2025-12-06,9
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_121_L3_full_coherent_0066.pdf,JasperReports 6.20,2026-01-10,2026-01-19,9
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_630_L3_full_coherent_0067.pdf,HRDesk Document Server 3.3.1,2025-12-16,2025-12-23,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_490_L3_full_coherent_0068.pdf,JasperReports 6.20,2025-08-10,2025-08-29,19
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_426_L3_full_coherent_0069.pdf,JasperReports 6.20,2025-11-10,2025-11-27,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_776_L3_full_coherent_0070.pdf,iText 7.2.5,2025-07-22,2025-07-28,6
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_697_L3_full_coherent_0071.pdf,NimbusERP PDF Engine 4.2.7,2025-09-20,2025-10-06,16
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_541_L3_full_coherent_0072.pdf,JasperReports 6.20,2026-07-15,2026-07-26,11
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_940_L3_full_coherent_0073.pdf,NimbusERP PDF Engine 4.2.7,2025-10-02,2025-10-19,17
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_208_L3_full_coherent_0074.pdf,iText 7.2.5,2025-10-02,2025-10-19,17
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_169_L3_full_coherent_0075.pdf,iText 7.2.5,2026-02-09,2026-02-23,14
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_697_L3_full_coherent_0076.pdf,iText 7.2.5,2025-09-20,2025-10-05,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_921_L3_full_coherent_0077.pdf,NimbusERP PDF Engine 4.2.7,2026-05-13,2026-05-27,14
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_526_L3_full_coherent_0078.pdf,iText 7.2.5,2025-12-04,2025-12-05,1
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_474_L3_full_coherent_0079.pdf,JasperReports 6.20,2026-07-10,2026-07-19,9
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_023_L3_full_coherent_0080.pdf,Oracle BI Publisher 12.2.1,2026-01-09,2026-01-17,8
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_764_L3_full_coherent_0081.pdf,NimbusERP PDF Engine 4.2.7,2026-05-08,2026-05-09,1
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_353_L3_full_coherent_0082.pdf,JasperReports 6.20,2025-07-17,2025-07-19,2
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_062_L3_full_coherent_0083.pdf,NimbusERP PDF Engine 4.2.7,2026-08-02,2026-08-17,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_294_L3_full_coherent_0084.pdf,HRDesk Document Server 3.3.1,2026-07-30,2026-08-19,20
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_662_L3_full_coherent_0085.pdf,Oracle BI Publisher 12.2.1,2026-03-09,2026-03-20,11
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_460_L3_full_coherent_0086.pdf,Oracle BI Publisher 12.2.1,2025-11-17,2025-11-29,12
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_700_L3_full_coherent_0087.pdf,iText 7.2.5,2026-05-16,2026-05-20,4
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_881_L3_full_coherent_0088.pdf,MediSys LIS Report Writer 8.1.0,2026-05-01,2026-05-04,3
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_551_L3_full_coherent_0089.pdf,HRDesk Document Server 3.3.1,2025-11-10,2025-11-17,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_775_L3_full_coherent_0090.pdf,Oracle BI Publisher 12.2.1,2026-07-10,2026-07-27,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_545_L3_full_coherent_0091.pdf,Oracle BI Publisher 12.2.1,2025-08-30,2025-09-06,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_472_L3_full_coherent_0092.pdf,MediSys LIS Report Writer 8.1.0,2025-09-18,2025-09-24,6
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_784_L3_full_coherent_0093.pdf,NimbusERP PDF Engine 4.2.7,2026-06-25,2026-06-26,1
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_430_L3_full_coherent_0094.pdf,iText 7.2.5,2026-07-13,2026-07-13,0
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_212_L3_full_coherent_0095.pdf,iText 7.2.5,2026-03-26,2026-03-27,1
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_613_L3_full_coherent_0096.pdf,JasperReports 6.20,2025-12-10,2025-12-11,1
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_759_L3_full_coherent_0097.pdf,Oracle BI Publisher 12.2.1,2026-05-23,2026-05-30,7
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_223_L3_full_coherent_0098.pdf,NimbusERP PDF Engine 4.2.7,2026-01-19,2026-01-23,4
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_297_L3_full_coherent_0099.pdf,HRDesk Document Server 3.3.1,2026-04-03,2026-04-21,18
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_592_L3_full_coherent_0100.pdf,iText 7.2.5,2025-09-19,2025-09-29,10
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_310_L3_full_coherent_0101.pdf,iText 7.2.5,2026-06-26,2026-07-03,7
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_308_L3_full_coherent_0102.pdf,MediSys LIS Report Writer 8.1.0,2025-10-09,2025-10-10,1
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_972_L3_full_coherent_0103.pdf,iText 7.2.5,2025-12-03,2025-12-08,5
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_696_L3_full_coherent_0104.pdf,Oracle BI Publisher 12.2.1,2026-02-22,2026-03-11,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_049_L3_full_coherent_0105.pdf,MediSys LIS Report Writer 8.1.0,2025-12-09,2025-12-29,20
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_391_L3_full_coherent_0106.pdf,iText 7.2.5,2026-02-01,2026-02-11,10
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_427_L3_full_coherent_0107.pdf,Oracle BI Publisher 12.2.1,2025-08-27,2025-08-31,4
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_386_L3_full_coherent_0108.pdf,HRDesk Document Server 3.3.1,2026-03-23,2026-04-09,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_247_L3_full_coherent_0109.pdf,HRDesk Document Server 3.3.1,2026-02-13,2026-02-22,9
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_148_L3_full_coherent_0110.pdf,Oracle BI Publisher 12.2.1,2025-12-17,2025-12-18,1
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_423_L3_full_coherent_0111.pdf,Oracle BI Publisher 12.2.1,2026-05-24,2026-06-10,17
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_138_L3_full_coherent_0112.pdf,Oracle BI Publisher 12.2.1,2025-12-14,2025-12-21,7
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_209_L3_full_coherent_0113.pdf,MediSys LIS Report Writer 8.1.0,2025-11-18,2025-12-08,20
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_945_L3_full_coherent_0114.pdf,MediSys LIS Report Writer 8.1.0,2026-05-09,2026-05-11,2
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_742_L3_full_coherent_0115.pdf,HRDesk Document Server 3.3.1,2025-11-11,2025-11-12,1
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_387_L3_full_coherent_0116.pdf,JasperReports 6.20,2026-02-02,2026-02-21,19
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_041_L3_full_coherent_0117.pdf,NimbusERP PDF Engine 4.2.7,2026-07-10,2026-07-16,6
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_742_L3_full_coherent_0118.pdf,JasperReports 6.20,2025-11-11,2025-11-28,17
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_491_L3_full_coherent_0119.pdf,MediSys LIS Report Writer 8.1.0,2026-07-21,2026-07-30,9
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_217_L3_full_coherent_0120.pdf,NimbusERP PDF Engine 4.2.7,2026-02-23,2026-03-10,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_713_L3_full_coherent_0121.pdf,HRDesk Document Server 3.3.1,2025-12-08,2025-12-20,12
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_566_L3_full_coherent_0122.pdf,MediSys LIS Report Writer 8.1.0,2025-08-30,2025-09-11,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_547_L3_full_coherent_0123.pdf,JasperReports 6.20,2025-08-02,2025-08-13,11
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_268_L3_full_coherent_0124.pdf,MediSys LIS Report Writer 8.1.0,2026-07-29,2026-08-14,16
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_478_L3_full_coherent_0125.pdf,NimbusERP PDF Engine 4.2.7,2026-05-25,2026-06-09,15
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_937_L3_full_coherent_0126.pdf,HRDesk Document Server 3.3.1,2026-06-14,2026-06-25,11
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_424_L3_full_coherent_0127.pdf,NimbusERP PDF Engine 4.2.7,2026-07-08,2026-07-26,18
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_760_L3_full_coherent_0128.pdf,MediSys LIS Report Writer 8.1.0,2026-05-13,2026-05-30,17
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_594_L3_full_coherent_0129.pdf,JasperReports 6.20,2026-03-12,2026-03-25,13
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_157_L3_full_coherent_0130.pdf,HRDesk Document Server 3.3.1,2026-08-03,2026-08-13,10
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_389_L3_full_coherent_0131.pdf,HRDesk Document Server 3.3.1,2025-10-17,2025-11-01,15
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_671_L3_full_coherent_0132.pdf,JasperReports 6.20,2026-02-13,2026-02-23,10
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_782_L3_full_coherent_0133.pdf,Oracle BI Publisher 12.2.1,2026-06-11,2026-07-01,20
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_503_L3_full_coherent_0134.pdf,Oracle BI Publisher 12.2.1,2026-01-06,2026-01-11,5
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_815_L3_full_coherent_0135.pdf,MediSys LIS Report Writer 8.1.0,2026-07-30,2026-08-04,5
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_738_L3_full_coherent_0136.pdf,HRDesk Document Server 3.3.1,2026-04-23,2026-05-10,17
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_981_L3_full_coherent_0137.pdf,NimbusERP PDF Engine 4.2.7,2026-05-03,2026-05-19,16
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_860_L3_full_coherent_0138.pdf,JasperReports 6.20,2025-09-16,2025-09-17,1
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_423_L3_full_coherent_0139.pdf,JasperReports 6.20,2025-10-13,2025-10-20,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_725_L3_full_coherent_0140.pdf,HRDesk Document Server 3.3.1,2026-02-06,2026-02-22,16
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_383_L3_full_coherent_0141.pdf,NimbusERP PDF Engine 4.2.7,2025-07-12,2025-07-31,19
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_683_L3_full_coherent_0142.pdf,iText 7.2.5,2025-12-16,2025-12-31,15
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_500_L3_full_coherent_0143.pdf,NimbusERP PDF Engine 4.2.7,2025-07-13,2025-07-13,0
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_565_L3_full_coherent_0144.pdf,Oracle BI Publisher 12.2.1,2025-11-04,2025-11-04,0
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_543_L3_full_coherent_0145.pdf,iText 7.2.5,2025-12-06,2025-12-15,9
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_515_L3_full_coherent_0146.pdf,Oracle BI Publisher 12.2.1,2026-06-30,2026-07-05,5
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_941_L3_full_coherent_0147.pdf,HRDesk Document Server 3.3.1,2026-07-18,2026-07-25,7
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_635_L3_full_coherent_0148.pdf,MediSys LIS Report Writer 8.1.0,2025-11-09,2025-11-17,8
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_081_L3_full_coherent_0149.pdf,MediSys LIS Report Writer 8.1.0,2025-11-27,2025-12-09,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_579_L3_full_coherent_0150.pdf,HRDesk Document Server 3.3.1,2026-07-30,2026-08-06,7
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_701_L3_full_coherent_0151.pdf,NimbusERP PDF Engine 4.2.7,2026-02-07,2026-02-27,20
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_778_L3_full_coherent_0152.pdf,NimbusERP PDF Engine 4.2.7,2026-05-10,2026-05-12,2
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_389_L3_full_coherent_0153.pdf,Oracle BI Publisher 12.2.1,2026-03-04,2026-03-21,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_058_L3_full_coherent_0154.pdf,JasperReports 6.20,2026-01-05,2026-01-05,0
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_176_L3_full_coherent_0155.pdf,NimbusERP PDF Engine 4.2.7,2026-03-17,2026-04-01,15
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_661_L3_full_coherent_0156.pdf,MediSys LIS Report Writer 8.1.0,2025-12-15,2026-01-02,18
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_917_L3_full_coherent_0157.pdf,HRDesk Document Server 3.3.1,2025-12-16,2025-12-22,6
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_909_L3_full_coherent_0158.pdf,iText 7.2.5,2026-05-10,2026-05-25,15
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_048_L3_full_coherent_0159.pdf,NimbusERP PDF Engine 4.2.7,2025-08-31,2025-09-08,8
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_578_L3_full_coherent_0160.pdf,JasperReports 6.20,2026-07-11,2026-07-12,1
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_952_L3_full_coherent_0161.pdf,HRDesk Document Server 3.3.1,2025-11-20,2025-12-08,18
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_771_L3_full_coherent_0162.pdf,Oracle BI Publisher 12.2.1,2026-06-29,2026-07-01,2
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_167_L3_full_coherent_0163.pdf,iText 7.2.5,2025-10-25,2025-11-01,7
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_855_L3_full_coherent_0164.pdf,Oracle BI Publisher 12.2.1,2025-08-04,2025-08-21,17
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_394_L3_full_coherent_0165.pdf,JasperReports 6.20,2026-01-09,2026-01-13,4
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_742_L3_full_coherent_0166.pdf,NimbusERP PDF Engine 4.2.7,2025-11-11,2025-11-27,16
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_998_L3_full_coherent_0167.pdf,MediSys LIS Report Writer 8.1.0,2025-11-28,2025-11-29,1
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_448_L3_full_coherent_0168.pdf,NimbusERP PDF Engine 4.2.7,2026-01-18,2026-01-28,10
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_788_L3_full_coherent_0169.pdf,iText 7.2.5,2026-03-18,2026-04-06,19
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_993_L3_full_coherent_0170.pdf,MediSys LIS Report Writer 8.1.0,2025-11-16,2025-11-16,0
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_280_L3_full_coherent_0171.pdf,Oracle BI Publisher 12.2.1,2026-02-18,2026-03-05,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_365_L3_full_coherent_0172.pdf,Oracle BI Publisher 12.2.1,2026-02-28,2026-03-05,5
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_600_L3_full_coherent_0173.pdf,JasperReports 6.20,2026-07-24,2026-08-05,12
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_791_L3_full_coherent_0174.pdf,HRDesk Document Server 3.3.1,2025-12-13,2025-12-15,2
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_275_L3_full_coherent_0175.pdf,JasperReports 6.20,2025-07-22,2025-08-11,20
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_758_L3_full_coherent_0176.pdf,MediSys LIS Report Writer 8.1.0,2025-07-16,2025-07-19,3
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_006_L3_full_coherent_0177.pdf,MediSys LIS Report Writer 8.1.0,2026-01-20,2026-01-28,8
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_136_L3_full_coherent_0178.pdf,Oracle BI Publisher 12.2.1,2025-07-29,2025-08-12,14
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_569_L3_full_coherent_0179.pdf,iText 7.2.5,2026-08-09,2026-08-22,13
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_027_L3_full_coherent_0180.pdf,iText 7.2.5,2026-01-20,2026-01-22,2
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_613_L3_full_coherent_0181.pdf,MediSys LIS Report Writer 8.1.0,2026-05-04,2026-05-16,12
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_299_L3_full_coherent_0182.pdf,NimbusERP PDF Engine 4.2.7,2025-10-30,2025-11-16,17
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_586_L3_full_coherent_0183.pdf,JasperReports 6.20,2026-02-01,2026-02-13,12
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_143_L3_full_coherent_0184.pdf,MediSys LIS Report Writer 8.1.0,2025-11-11,2025-11-26,15
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_065_L3_full_coherent_0185.pdf,MediSys LIS Report Writer 8.1.0,2026-02-03,2026-02-16,13
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_496_L3_full_coherent_0186.pdf,NimbusERP PDF Engine 4.2.7,2026-05-25,2026-06-05,11
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_967_L3_full_coherent_0187.pdf,HRDesk Document Server 3.3.1,2025-11-21,2025-12-11,20
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_609_L3_full_coherent_0188.pdf,iText 7.2.5,2026-01-11,2026-01-17,6
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_110_L3_full_coherent_0189.pdf,HRDesk Document Server 3.3.1,2025-08-19,2025-08-28,9
+L3_full_coherent,invoice,forged_careful/L3_full_coherent/invoices/invoice_972_L3_full_coherent_0190.pdf,iText 7.2.5,2026-07-05,2026-07-17,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_451_L3_full_coherent_0191.pdf,MediSys LIS Report Writer 8.1.0,2026-01-25,2026-02-07,13
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_998_L3_full_coherent_0192.pdf,iText 7.2.5,2025-11-28,2025-12-02,4
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_329_L3_full_coherent_0193.pdf,iText 7.2.5,2025-07-31,2025-08-06,6
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_322_L3_full_coherent_0194.pdf,HRDesk Document Server 3.3.1,2026-07-23,2026-08-04,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_299_L3_full_coherent_0195.pdf,JasperReports 6.20,2025-08-24,2025-09-13,20
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_991_L3_full_coherent_0196.pdf,iText 7.2.5,2026-06-27,2026-07-04,7
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_386_L3_full_coherent_0197.pdf,MediSys LIS Report Writer 8.1.0,2026-03-23,2026-04-04,12
+L3_full_coherent,letter,forged_careful/L3_full_coherent/letters/letter_117_L3_full_coherent_0198.pdf,iText 7.2.5,2025-09-12,2025-09-18,6
+L3_full_coherent,medical,forged_careful/L3_full_coherent/medicals/medical_559_L3_full_coherent_0199.pdf,HRDesk Document Server 3.3.1,2026-01-27,2026-02-13,17

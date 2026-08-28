@@ -1,0 +1,5 @@
+scenario,n,as_expected,expected_grade,example_verdict
+genuine_signed,25,25,proof-clear,"PROOF: issuer verified (Choudhury\, Bakshi and Maharaj)"
+self_signed_forger,25,25,support,"SUPPORT: integrity only, issuer unverified"
+edited_after_sign,25,25,conviction,TAMPER (signature broken)
+appended_after_sign,25,25,conviction,TAMPER (modified after signing)

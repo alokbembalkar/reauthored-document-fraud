@@ -1,0 +1,454 @@
+file,thread,status,bytes,producer,creator,creation_date,n_printed_dates,min_gap_days,cues_hit,institutional,desktop,unsigned,sig_A,sig_B,sig_C,score
+033750.pdf,033,ok,56313,Acrobat Distiller 5.0.5 (Windows),AdobePS5.dll Version 5.2.2,2005-04-13,3,2190,invoice:purchase order,True,True,True,2,2,1,5
+085504.pdf,085,ok,315003,Acrobat Distiller 5.0 (Windows),ADOBEPS4.DRV Version 4.50,2002-08-14,9,98,medical:histopathology,True,True,True,2,2,1,5
+184601.pdf,184,ok,404806,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2,2004-11-02,1,875,letter:employed with,True,True,True,2,2,1,5
+184822.pdf,184,ok,229180,Acrobat Distiller 3.01 for Windows,Windows NT 4.0,1999-07-28,1,5946,letter:termination of employment,True,True,True,2,2,1,5
+202193.pdf,202,ok,122357,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2003-08-27,2,150,invoice:amount due,True,True,True,2,2,1,5
+001270.pdf,001,ok,54672,Adobe PDF Library 4.0,Acrobat Capture 3.0,2002-12-09,0,,letter:to whom it may concern,True,True,True,2,0,1,3
+001271.pdf,001,ok,26469,Acrobat PDFWriter 3.0 for Windows,Microsoft Word ,,0,,medical:microscopic examination,True,True,True,2,0,1,3
+001075.pdf,001,ok,58095,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2006-02-24,4,1,invoice:purchase order,True,True,True,2,0,1,3
+001490.pdf,001,ok,96931,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2.2,2008-04-30,2,28,letter:to whom it may concern,True,True,True,2,0,1,3
+016655.pdf,016,ok,307536,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-09-04,0,,letter:termination of employment,True,True,True,2,0,1,3
+033332.pdf,033,ok,47899,Adobe Acrobat 7.08 Paper Capture Plug-in,Adobe Acrobat 7.08,2007-10-05,0,,letter:to whom it may concern,True,True,True,2,0,1,3
+038337.pdf,038,ok,78828,Mac OS X 10.4.7 Quartz PDFContext,Word,2006-09-21,0,,invoice:bill to,True,True,True,2,0,1,3
+085229.pdf,085,ok,2070137,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2005-12-21,5,6,medical:pathology report,True,True,True,2,0,1,3
+085562.pdf,085,ok,25651,Acrobat PDFWriter 3.0 for Windows,F:\APPS\PCDIALS\FSISDIRE20.1,,0,,medical:laboratory report,True,True,True,2,0,1,3
+085572.pdf,085,ok,392022,Acrobat Distiller 5.0 (Windows),Acrobat PDFMaker 5.0 for Word,2002-10-16,5,1,invoice:bill to,True,True,True,2,0,1,3
+184600.pdf,184,ok,4547756,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2005-12-12,0,,invoice:purchase order,True,True,True,2,0,1,3
+334143.pdf,334,ok,125484,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.5 for Excel,2006-12-19,1,6,invoice:amount due,True,True,True,2,0,1,3
+202874.pdf,202,ok,12669,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2005-03-11,3,1,letter:to whom it may concern,True,True,True,2,0,1,3
+334498.pdf,334,ok,20952,Acrobat PDFWriter 5.0 for Windows,,2004-03-18,12,1,invoice:amount due,True,True,True,2,0,1,3
+334152.pdf,334,ok,400677,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2007-04-06,6,17,certificate:certificate no,True,True,True,2,0,1,3
+334677.pdf,334,ok,443124,Acrobat Distiller Server 5.0.5 (Sparc Solaris),dvips(k) 5.86 Copyright 1999 Radical Eye Software,2005-02-24,4,40,medical:microscopic examination,True,True,True,2,0,1,3
+001306.pdf,001,ok,261059,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2006-12-14,4,1019,,False,True,True,0,2,0,2
+001309.pdf,001,ok,182724,Acrobat Distiller 3.02,CUP Printing,2000-06-27,2,96,,False,True,True,0,2,0,2
+001313.pdf,001,ok,284378,Acrobat Distiller 6.0.1 (Windows),3B2 Total Publishing System 8.07c/W,2006-06-01,4,249,,False,True,True,0,2,0,2
+001370.pdf,001,ok,2593056,PrimoPDF,PrimoPDF http://www.primopdf.com,2008-05-21,1,80,,False,False,True,0,2,0,2
+001371.pdf,001,ok,772476,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-06-26,6,761,,False,True,True,0,2,0,2
+001029.pdf,001,ok,3156095,Corel PDF Engine Version 9.654,POP90,2002-08-12,1,73,,False,False,True,0,2,0,2
+001032.pdf,001,ok,159629,Acrobat PDFWriter 4.0 for Windows,W:\research\zip\unzip\NUTTREES.WPD,1999-05-05,1,346,,False,True,True,0,2,0,2
+001036.pdf,001,ok,655146,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2,2007-11-13,1,682,,False,True,True,0,2,0,2
+001037.pdf,001,ok,293876,Creo Normalizer JTP,,2004-09-29,30,343,,False,False,True,0,2,0,2
+001038.pdf,001,ok,442169,Acrobat Distiller 5.0 (Windows),Acrobat PDFMaker 5.0 for Word,2001-09-07,3,709,,False,True,True,0,2,0,2
+001049.pdf,001,ok,41479,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2007-10-18,1,74,,False,True,True,0,2,0,2
+001057.pdf,001,ok,584142,Acrobat Distiller 4.05 for Windows,,2004-09-17,3,961,,False,True,True,0,2,0,2
+001062.pdf,001,ok,545982,Acrobat Distiller 5.0.5 (Windows),FrameMaker 7.0,2003-04-17,6,1305,,False,True,True,0,2,0,2
+001065.pdf,001,ok,323355,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2007-10-24,3,51,,False,True,True,0,2,0,2
+001072.pdf,001,ok,196911,Adobe PDF Library 8.0,Adobe InDesign CS3 (5.0.3),2008-08-05,8,148,,False,False,True,0,2,0,2
+001147.pdf,001,ok,44251,Acrobat Distiller Command 3.01 for Solaris 2.3 and later (SPARC),FrameMaker 5.5.6.,2000-10-13,6,380,,False,True,True,0,2,0,2
+001150.pdf,001,ok,599716,RealPage data converter,RealPage PDF Generator 2.0,2003-07-24,4,833,,False,False,True,0,2,0,2
+001152.pdf,001,ok,2869517,Hewlett-Packard Intelligent Scanning Technology3,,2006-05-24,1,87,,False,False,True,0,2,0,2
+001155.pdf,001,ok,3278410,Acrobat Distiller 5.0.5 for Macintosh,Microsoft PowerPoint: PSPrinter 8.2.1,2003-05-01,1,441,,False,True,True,0,2,0,2
+001266.pdf,001,ok,130039,"Etymon PJ 1.10, Copyright (C) 1998-2000 Etymon Systems, Inc. <http://www.etymon.com/>. ", ,1980-11-03,1,216,,False,False,True,0,2,0,2
+001269.pdf,001,ok,455235,Acrobat Distiller 3.01 for Power Macintosh,QuarkXPressª: LaserWriter 8 B1-8.6,2000-02-14,2,391,,False,True,True,0,2,0,2
+001274.pdf,001,ok,155671,PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 5.0.5 (Windows),,2005-03-29,2,50,,False,True,True,0,2,0,2
+001081.pdf,001,ok,829385,"5,0,0,296",I.R.I.S.,2007-10-29,2,7608,,False,False,True,0,2,0,2
+001094.pdf,001,ok,247656,,,2004-02-17,2,121,,False,False,True,0,2,0,2
+001097.pdf,001,ok,556121,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2003-12-09,1,1135,,False,True,True,0,2,0,2
+001099.pdf,001,ok,630537,StampPDF Batch 3.0 Windows SPDF_1085 Oct 13 2003,LaTeX with hyperref package,2008-03-21,4,152,,False,False,True,0,2,0,2
+001117.pdf,001,ok,66059,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-06-05,10,853,,False,True,True,0,2,0,2
+001129.pdf,001,ok,421754,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2005-03-28,2,603,,False,True,True,0,2,0,2
+001132.pdf,001,ok,165244,Adobe PDF Library 6.0,Adobe InDesign CS (3.0.1),2004-12-13,2,1267,,False,False,True,0,2,0,2
+001376.pdf,001,ok,405607,Acrobat Distiller 2.1 for Windows,,1997-01-15,1,381,,False,True,True,0,2,0,2
+001377.pdf,001,ok,385116,Mac OS X 10.5.2 Quartz PDFContext,Microsoft Word,2008-03-12,1,6157,,False,True,True,0,2,0,2
+001378.pdf,001,ok,877357,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2004-02-26,1,82,,False,True,True,0,2,0,2
+001383.pdf,001,ok,33303,Acrobat Distiller 4.05 for Windows,,2004-02-25,2,3178,,False,True,True,0,2,0,2
+001385.pdf,001,ok,950009,Acrobat Distiller 5.0.5 for Macintosh,QuarkXPress.: AdobePS 8.7.2 (104),2004-06-14,3,2043,,False,True,True,0,2,0,2
+001514.pdf,001,ok,41986,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2008-10-23,1,111,,False,True,True,0,2,0,2
+001644.pdf,001,ok,4068940,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2005-10-05,3,1486,,False,True,True,0,2,0,2
+001647.pdf,001,ok,4078399,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2005-06-16,3,1375,,False,True,True,0,2,0,2
+001658.pdf,001,ok,420480,,,2008-10-20,1,157,,False,False,True,0,2,0,2
+001659.pdf,001,ok,443825,,,2008-11-12,1,55,,False,False,True,0,2,0,2
+001669.pdf,001,ok,2113367,,XPP,2008-04-04,1,172,,False,False,True,0,2,0,2
+001672.pdf,001,ok,272187,iText by lowagie.com (r1.01;p126),,2007-12-23,2,723,,False,False,True,0,2,0,2
+001673.pdf,001,ok,61079,Acrobat Distiller 8.0.0 (Windows),PScript5.dll Version 5.2.2,2008-05-14,5,121,,False,True,True,0,2,0,2
+001677.pdf,001,ok,821984,Acrobat Distiller 5.0.5 (Windows),ACOMP.exe V010   23-MAR-99,2003-09-05,6,261,,False,True,True,0,2,0,2
+001679.pdf,001,ok,161190,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2006-04-26,7,62,,False,True,True,0,2,0,2
+001483.pdf,001,ok,103660,Apogee Create Series3 v1.0,,2002-07-10,3,122,medical:microscopic examination,True,False,True,0,2,0,2
+001487.pdf,001,ok,18055,Acrobat PDFWriter 4.0 for Windows,C:\web_Stuff\bldmem\8_5_94.w51,2000-06-28,3,2155,,False,True,True,0,2,0,2
+001493.pdf,001,ok,232281,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for PowerPoint,2005-01-05,2,71,,False,True,True,0,2,0,2
+001285.pdf,001,ok,2386423,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2008-02-27,10,365,,False,True,True,0,2,0,2
+001288.pdf,001,ok,337954,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2005-09-20,2,1589,,False,True,True,0,2,0,2
+001290.pdf,001,ok,2340018,Acrobat Distiller 7.0 (Windows),3B2 Total Publishing System 8.07e/W,2008-01-18,3,195,,False,True,True,0,2,0,2
+001294.pdf,001,ok,129976,Acrobat Distiller Daemon 3.01 for Solaris 2.3 and later (SPARC),Penta Systems International Inc.,1999-07-27,7,264,,False,True,True,0,2,0,2
+001299.pdf,001,ok,67267,Acrobat Distiller 5.0 (Windows),"Interleaf, Inc.",2001-12-03,7,1280,,False,True,True,0,2,0,2
+001301.pdf,001,ok,1062778,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2004-11-24,1,1176,,False,True,True,0,2,0,2
+001305.pdf,001,ok,2115058,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2.2,2008-07-01,2,383,,False,True,True,0,2,0,2
+001684.pdf,001,ok,234509,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2008-11-18,4,506,,False,True,True,0,2,0,2
+001693.pdf,001,ok,223809,Acrobat Distiller 5.0.5 (Windows),ADOBEPS4.DRV Version 4.52,2003-01-09,19,80,,False,True,True,0,2,0,2
+001878.pdf,001,ok,134833,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2007-03-28,23,618,,False,True,True,0,2,0,2
+001938.pdf,001,ok,95523,Hyf PDF Output Library 2.2.3 (Solaris),XSL Formatter V3.2 MR3,2008-11-03,2,263,,False,False,True,0,2,0,2
+001943.pdf,001,ok,50122,Acrobat Distiller 4.0 for Macintosh,Adobe PageMaker 6.5,2006-04-14,3,1555,,False,True,True,0,2,0,2
+001950.pdf,001,ok,297083,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2008-06-18,4,2570,,False,True,True,0,2,0,2
+001951.pdf,001,ok,94907,Acrobat PDFWriter 2.01 for Windows,A:CHAP4.WPD,1996-04-03,2,507,,False,True,True,0,2,0,2
+001953.pdf,001,ok,47637,Acrobat Distiller 5.0.5 (Windows),,2003-03-28,8,61,,False,True,True,0,2,0,2
+001957.pdf,001,ok,413334,Acrobat Distiller 4.0 for Windows,ADOBEPS4.DRV Version 4.10,2001-11-28,1,2634,,False,True,True,0,2,0,2
+001964.pdf,001,ok,80062,Rumborak PDF-Writer Plus 1.0 RC9 / GS 8.50,PScript5.dll Version 5.2.2,2008-04-28,2,119,,False,False,True,0,2,0,2
+001977.pdf,001,ok,278229,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2008-01-15,4,261,,False,True,True,0,2,0,2
+001985.pdf,001,ok,594339,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2.2,2008-05-27,1,92,,False,True,True,0,2,0,2
+001987.pdf,001,ok,363901,Acrobat PDFWriter 5.0 for Windows NT,Third_year_Review_Final - Microsoft Word,2006-10-23,2,1365,,False,True,True,0,2,0,2
+001988.pdf,001,ok,77405,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2,2007-11-01,5,489,,False,True,True,0,2,0,2
+001780.pdf,001,ok,325797,Acrobat Distiller 4.0 for Windows,,2001-08-06,1,459,,False,True,True,0,2,0,2
+001815.pdf,001,ok,530585,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2007-05-30,2,60,,False,True,True,0,2,0,2
+016133.pdf,016,ok,33895,Acrobat PDFWriter 4.0 for Windows,J:\wwwstaging\atr2\...\3993.wp   [PFP#1292472009],1999-12-29,3,100,,False,True,True,0,2,0,2
+016136.pdf,016,ok,173838,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2,2005-05-24,1,76,,False,True,True,0,2,0,2
+016145.pdf,016,ok,365418,"dvipdfm 0.13.2b, Copyright © 1998, by Mark A. Wicks", TeX output 2002.01.30:1943,2002-01-30,1,2670,,False,False,True,0,2,0,2
+016012.pdf,016,ok,51414,Acrobat Distiller 4.0 for Windows,,2006-09-19,2,1522,,False,True,True,0,2,0,2
+016429.pdf,016,ok,2168324,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2003-09-02,1,510,,False,True,True,0,2,0,2
+016123.pdf,016,ok,394936,Acrobat Distiller 2.1 for Windows,,1996-09-05,2,949,,False,True,True,0,2,0,2
+016124.pdf,016,ok,2454174,Acrobat Distiller 7.0 (Windows),Elsevier,2007-02-13,24,164,,False,True,True,0,2,0,2
+016128.pdf,016,ok,217593,Adobe Acrobat 9.0 Paper Capture Plug-in,Adobe Acrobat 9.0,2008-08-12,1,8157,,False,True,True,0,2,0,2
+016130.pdf,016,ok,1036842,Apogee Series3 Pilot v1.0.1u2,,2006-11-30,2,277,,False,False,True,0,2,0,2
+016483.pdf,016,ok,255346,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2.2,2007-01-31,4,238,,False,True,True,0,2,0,2
+016552.pdf,016,ok,485828,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2.2,2007-02-20,1,581,,False,True,True,0,2,0,2
+016555.pdf,016,ok,208894,JAWS PDFLib,activePDF Server,2003-08-22,18,353,,False,False,True,0,2,0,2
+016611.pdf,016,ok,35106,Acrobat Distiller 5.0.5 (Windows),,2002-06-12,7,55,,False,True,True,0,2,0,2
+016612.pdf,016,ok,54617,Acrobat Distiller 5.0.5 for Macintosh,ACOMP.exe   WinVer 1c12  Nov 04 2004,2005-10-14,2,474,,False,True,True,0,2,0,2
+016460.pdf,016,ok,281814,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2007-11-02,1,399,,False,True,True,0,2,0,2
+016462.pdf,016,ok,66003,Acrobat PDFWriter 2.11 for Windows,Microsoft Word ,1997-07-09,3,105,,False,True,True,0,2,0,2
+016472.pdf,016,ok,194689,Acrobat Distiller 4.05 for Windows,Elsevier,2004-10-13,1,87,,False,True,True,0,2,0,2
+016475.pdf,016,ok,561899,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2004-01-08,6,602,,False,True,True,0,2,0,2
+016433.pdf,016,ok,4964287,Acrobat Distiller 5.0.5 (Windows),ADOBEPS4.DRV Version 4.51,2002-12-06,6,449,,False,True,True,0,2,0,2
+016438.pdf,016,ok,320805,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-11-07,1,825,,False,True,True,0,2,0,2
+016444.pdf,016,ok,740119,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2007-08-06,1,56,,False,True,True,0,2,0,2
+016445.pdf,016,ok,201459,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-04-10,3,49,,False,True,False,0,2,0,2
+016446.pdf,016,ok,41827,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-09-23,1,73,,False,True,True,0,2,0,2
+016447.pdf,016,ok,1577301,Acrobat Distiller 3.0 for Windows,Adobe PageMaker 6.52,1998-12-16,1,97,,False,True,True,0,2,0,2
+016454.pdf,016,ok,1185185,Mac OS X 10.4.6 Quartz PDFContext,,2006-05-09,5,448,,False,False,True,0,2,0,2
+016455.pdf,016,ok,255936,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2006-12-15,1,2023,,False,True,True,0,2,0,2
+016457.pdf,016,ok,2485460,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.5 for PowerPoint,2007-05-03,1,556,,False,True,True,0,2,0,2
+016631.pdf,016,ok,334600,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2009-01-09,1,403,,False,True,True,0,2,0,2
+016639.pdf,016,ok,89933,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2,2009-01-21,14,73,,False,True,True,0,2,0,2
+016653.pdf,016,ok,873573,,,2007-09-04,1,3726,,False,False,True,0,2,0,2
+016738.pdf,016,ok,81670,Acrobat Distiller 6.0 (Windows),Worstation ArcInfo 8.1,2004-05-24,1,875,,False,True,True,0,2,0,2
+016739.pdf,016,ok,58353,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2,2007-01-29,18,53,,False,True,True,0,2,0,2
+016743.pdf,016,ok,44912,Acrobat PDFWriter 3.02 for Windows NT,Microsoft Word,1999-02-16,23,1441,,False,True,True,0,2,0,2
+016746.pdf,016,ok,3716,www.adlibsys.com:EXD3145-W98,Text Document,2004-04-03,1,164,,False,False,True,0,2,0,2
+016747.pdf,016,ok,153470,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2008-07-21,1,1483,,False,True,True,0,2,0,2
+016748.pdf,016,ok,3687,www.adlibsys.com:EXD3145-W98,Text Document,2004-03-03,1,292,,False,False,True,0,2,0,2
+016750.pdf,016,ok,472432,Acrobat Distiller 4.0 for Windows,AdobePS5.dll Version 5.0.1,2000-08-21,1,404,,False,True,True,0,2,0,2
+016753.pdf,016,ok,2326223,Acrobat PDFWriter 4.05 for Windows,Slater-DW.doc - Microsoft Word,2001-08-07,3,489,,False,True,True,0,2,0,2
+016735.pdf,016,ok,45776,Acrobat Distiller 7.0 (Windows),Adobe Acrobat 7.0,2005-08-17,2,638,,False,True,True,0,2,0,2
+016870.pdf,016,ok,2839375,Acrobat Distiller 5.0.5 (Windows),Windows NT 4.0,2004-06-01,5,128,,False,True,True,0,2,0,2
+016874.pdf,016,ok,409549,Adobe Acrobat 6.0,Adobe Acrobat 6.0,2005-11-17,1,1193,,False,True,True,0,2,0,2
+016877.pdf,016,ok,151961,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2,2004-04-13,1,470,,False,True,True,0,2,0,2
+016883.pdf,016,ok,562723,Acrobat Distiller 7.0 (Windows),Elsevier,2007-02-08,3,123,,False,True,True,0,2,0,2
+016884.pdf,016,ok,128036,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2007-10-01,1,1329,,False,True,True,0,2,0,2
+016802.pdf,016,ok,1797586,Acrobat Distiller 4.0 for Windows,Microsoft Word 8.0,2001-10-01,2,5291,,False,True,True,0,2,0,2
+016803.pdf,016,ok,5234858,Acrobat Distiller 4.05 for Windows,3B2 Total Publishing System 7.51c/W,2002-04-20,2,3879,,False,True,True,0,2,0,2
+016805.pdf,016,ok,659470,Acrobat Distiller 5.0.5 (Windows),Adobe PageMaker 7.0,2003-07-22,1,295,,False,True,True,0,2,0,2
+016818.pdf,016,ok,254208,Acrobat Distiller 2.1 for Windows,,1996-09-18,1,1443,,False,True,True,0,2,0,2
+016821.pdf,016,ok,62779,Acrobat Distiller 3.01 for Windows,AdobePS5.dll Version 5.1,1999-12-06,1,209,,False,True,True,0,2,0,2
+016822.pdf,016,ok,73515,Acrobat Distiller 4.05 for Windows,,2001-06-12,4,69,,False,True,True,0,2,0,2
+016847.pdf,016,ok,163538,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2007-06-13,10,985,,False,True,True,0,2,0,2
+016859.pdf,016,ok,75179,Acrobat Distiller 4.0 for Windows,Microsoft Word 8.0,2001-01-23,11,115,,False,True,True,0,2,0,2
+033009.pdf,033,ok,12809,Acrobat Net Distiller 1.0 for Windows,,2001-09-21,12,1425,,False,True,True,0,2,0,2
+033015.pdf,033,ok,1927478,TextBridge(TM) http://www.scansoft.com,TextBridge(TM) http://www.scansoft.com,2001-11-27,18,3497,,False,False,True,0,2,0,2
+033017.pdf,033,ok,256368,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2.2,2007-08-15,1,244,,False,True,True,0,2,0,2
+033025.pdf,033,ok,392875,Acrobat Distiller 3.01 for Power Macintosh,QuarkXPress(tm) 4.1,2001-04-23,1,363,,False,True,True,0,2,0,2
+033026.pdf,033,ok,97822,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2,2006-04-20,1,2001,,False,True,True,0,2,0,2
+033051.pdf,033,ok,438350,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-11-14,1,387,,False,True,True,0,2,0,2
+033168.pdf,033,ok,235138,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2006-03-27,5,2170,,False,True,True,0,2,0,2
+033173.pdf,033,ok,475418,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-09-25,3,132,,False,True,True,0,2,0,2
+033313.pdf,033,ok,280188,Acrobat Distiller 5.0.5 (Windows),Acrobat PDFMaker 5.0 for Word,2005-01-07,1,2587,,False,True,True,0,2,0,2
+033314.pdf,033,ok,475451,Acrobat Distiller 4.05 for Windows,Adobe PageMaker 6.52,2003-03-28,1,296,,False,True,True,0,2,0,2
+033321.pdf,033,ok,280989,Acrobat Distiller 4.0 for Macintosh,QuarkXPressª: LaserWriter 8 8.7.1,2002-06-24,1,1959,,False,True,True,0,2,0,2
+033336.pdf,033,ok,239849,Acrobat Distiller 5.0.5 (Windows),Acrobat PDFMaker 5.0 for Word,2003-06-20,5,126,,False,True,True,0,2,0,2
+033340.pdf,033,ok,173386,Acrobat Distiller 5.0.5 (Windows),Acrobat PDFMaker 5.0 for Word,2003-06-20,5,614,,False,True,True,0,2,0,2
+033557.pdf,033,ok,152184,Acrobat Distiller 2.0 for Power Macintosh,,1996-06-14,2,747,,False,True,True,0,2,0,2
+033561.pdf,033,ok,500965,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,2,563,,False,False,True,0,2,0,2
+033563.pdf,033,ok,197545,Acrobat Distiller 8.0.0 (Windows),Acrobat PDFMaker 8.0 for Word,2007-11-07,1,134,,False,True,True,0,2,0,2
+033566.pdf,033,ok,291039,Acrobat Distiller 5.0.5 (Windows),3B2 Total Publishing System 8.04b/W BETA,2003-10-23,3,66,,False,True,True,0,2,0,2
+033568.pdf,033,ok,649012,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,2,415,,False,False,True,0,2,0,2
+033629.pdf,033,ok,776269,Acrobat Distiller 7.0 (Windows),Arbortext Advanced Print Publisher 9.0.223/W,2007-05-12,2,155,,False,True,True,0,2,0,2
+033687.pdf,033,ok,546310,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,2,207,,False,False,True,0,2,0,2
+033690.pdf,033,ok,239344,Acrobat Distiller 4.05 for Windows,,2001-03-09,1,434,,False,True,True,0,2,0,2
+033691.pdf,033,ok,351449,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2.2,2008-03-25,40,200,,False,True,True,0,2,0,2
+033692.pdf,033,ok,22114,Acrobat PDFWriter 5.0 for Windows NT,WordPerfect 11 - [U:\ORDERS - TOLEDO\DECISIONS AND JUDGMENTS\01-36776 MOD.wpd],2003-12-31,10,755,,False,True,True,0,2,0,2
+033717.pdf,033,ok,51373,JAWS PDFLib,activePDF Server,2006-04-21,31,82,,False,False,True,0,2,0,2
+033722.pdf,033,ok,84985,Acrobat Distiller 2.1 for Windows,,1997-02-13,3,172,,False,True,True,0,2,0,2
+033728.pdf,033,ok,78826,Acrobat PDFWriter 5.0 for Windows NT,cam07-22.wpd - Microsoft Word,2003-03-18,1,1336,,False,True,True,0,2,0,2
+033792.pdf,033,ok,482901,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2.2,2005-10-14,2,188,,False,True,True,0,2,0,2
+033794.pdf,033,ok,300759,Acrobat Distiller 3.01 for Power Macintosh,Adobe PageMaker 6.52,2001-06-13,2,288,,False,True,True,0,2,0,2
+033796.pdf,033,ok,459655,Acrobat Distiller 2.1 for Windows,,1997-06-26,5,163,,False,True,True,0,2,0,2
+033799.pdf,033,ok,127319,Acrobat Distiller 8.0.0 (Windows),Acrobat PDFMaker 8.0 for Word,2008-09-12,4,590,,False,True,True,0,2,0,2
+033801.pdf,033,ok,4370270,Acrobat Distiller 7.0.5 for Macintosh,Word: cgpdftops CUPS filter,2006-10-12,1,197,,False,True,True,0,2,0,2
+038148.pdf,038,ok,151103,JAWS PDFLib,activePDF Server,2003-08-01,5,2104,,False,False,True,0,2,0,2
+038180.pdf,038,ok,189029,JAWS PDFLib,activePDF Server,2003-07-30,10,913,,False,False,True,0,2,0,2
+038231.pdf,038,ok,928528,Acrobat Distiller 5.0.5 (Windows),Adobe PageMaker 7.0,2004-05-03,3,48,,False,True,True,0,2,0,2
+038248.pdf,038,ok,819135,Acrobat 3.0 Import Plug-in,捁潲慢⁴⸳‰慃瑰牵汐杵椭n,2002-09-16,1,3303,,False,True,True,0,2,0,2
+038268.pdf,038,ok,542628,Acrobat Distiller 4.0 for Windows,ADOBEPS4.DRV Version 4.24,1999-11-18,2,47,,False,True,True,0,2,0,2
+033814.pdf,033,ok,2697704,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2004-11-29,2,335,,False,True,True,0,2,0,2
+033816.pdf,033,ok,375925,Acrobat Distiller 3.0 for Power Macintosh,,2002-07-01,2,278,,False,True,True,0,2,0,2
+033818.pdf,033,ok,287634,Acrobat Distiller 5.0.5 (Windows),3B2 Total Publishing System 8.07e/W,2004-07-16,2,89,,False,True,True,0,2,0,2
+033946.pdf,033,ok,854719,GNU Ghostscript 7.06,PScript5.dll Version 5.2,2006-03-07,1,77,,False,False,True,0,2,0,2
+033996.pdf,033,ok,2498497,Acrobat Web Capture 4.0,,2000-08-10,1,2639,,False,True,True,0,2,0,2
+038137.pdf,038,ok,425870,,Adobe InDesign CS (3.0.1),2008-01-22,5,111,medical:laboratory report,True,False,True,0,2,0,2
+038272.pdf,038,ok,247738,Acrobat Distiller 5.0 (Windows),"""Mim2ps v020215""",2002-06-05,1,4539,,False,True,True,0,2,0,2
+038276.pdf,038,ok,342714,Acrobat Distiller 5.0 (Windows),"""Mim2ps v020215""",2002-06-05,1,4539,,False,True,True,0,2,0,2
+038307.pdf,038,ok,19824,Acrobat PDFWriter 5.0 for Windows NT,Document2 - Microsoft Word,2004-07-01,1,1379,,False,True,True,0,2,0,2
+038310.pdf,038,ok,3558795,Acrobat PDFWriter 5.0 for Windows NT,QuarkXPress (tm) - [WinterQ.qxd],2003-06-18,1,99,,False,True,True,0,2,0,2
+038313.pdf,038,ok,84008,Acrobat PDFWriter 4.0 for Windows NT,WordPerfect 9 - [D:\internet\BCP\funeral\Comment A-76 - FAMSA corrected.wpd],1999-09-28,4,135,,False,True,True,0,2,0,2
+038316.pdf,038,ok,37849,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2009-01-22,2,51,,False,True,True,0,2,0,2
+038321.pdf,038,ok,154273,Acrobat Distiller 4.0 for Windows,Microsoft Word 8.0,2001-12-09,6,1299,,False,True,True,0,2,0,2
+033697.pdf,033,ok,49329,Acrobat Distiller 4.0 for Windows,,2004-03-30,3,972,,False,True,True,0,2,0,2
+033700.pdf,033,ok,26984,Acrobat Net Distiller 1.0 for Windows,,2000-04-27,9,1939,,False,True,True,0,2,0,2
+033702.pdf,033,ok,112062,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2005-03-02,3,189,,False,True,True,0,2,0,2
+033707.pdf,033,ok,79782,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2004-11-17,4,3678,,False,True,True,0,2,0,2
+038350.pdf,038,ok,80769,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2.2,2007-04-01,1,2617,,False,True,True,0,2,0,2
+038368.pdf,038,ok,379823,Acrobat PDFWriter 2.01 for Windows,C:\DATA\HT\HEAR\GI102395.WPD,1996-06-17,3,239,,False,True,True,0,2,0,2
+038375.pdf,038,ok,69532,Acrobat Distiller 4.0 for Windows,,2002-03-22,33,130,,False,True,True,0,2,0,2
+038402.pdf,038,ok,45407,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-11-03,1,62,,False,True,True,0,2,0,2
+038404.pdf,038,ok,221995,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2005-01-10,5,284,,False,True,True,0,2,0,2
+038447.pdf,038,ok,542216,Corel PDF Engine Version 9.395,POP90,2002-07-01,2,746,,False,False,True,0,2,0,2
+038505.pdf,038,ok,702736,Acrobat PDFWriter 4.05 for Windows,Microsoft PowerPoint ,2002-04-23,1,176,,False,True,True,0,2,0,2
+038507.pdf,038,ok,594761,Acrobat PDFWriter 4.05 for Windows NT,Final Report.doc - Microsoft Word,2002-09-16,1,378,,False,True,True,0,2,0,2
+038449.pdf,038,ok,1289571,Acrobat Distiller 5.00 for Macintosh,FrameMaker+SGML 5.5 PowerPC: LaserWriter 8 8.7,2001-08-02,1,87,,False,True,True,0,2,0,2
+038450.pdf,038,ok,324720,Acrobat PDFWriter 5.0 for Windows NT,Corel WordPerfect - [A:\01027WOR.WP],2002-02-05,1,467,,False,True,True,0,2,0,2
+038458.pdf,038,ok,54098,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2006-11-17,16,788,,False,True,True,0,2,0,2
+038460.pdf,038,ok,70379,,XPP,2003-03-13,18,81,,False,False,True,0,2,0,2
+038461.pdf,038,ok,185762,www.adlibsoftware.com:EXS3181-Windows 2003:TNG,MS Office Data (Ole & BIFF),2007-12-03,3,830,,False,False,True,0,2,0,2
+038465.pdf,038,ok,144506,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.5 for Word,2006-11-09,1,294,,False,True,True,0,2,0,2
+038466.pdf,038,ok,137248,Acrobat Distiller 6.0.1 for Macintosh,Adobe InDesign CS (3.0.1),2007-10-25,2,3265,,False,True,True,0,2,0,2
+038467.pdf,038,ok,96613,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-06-03,1,1105,,False,True,True,0,2,0,2
+038468.pdf,038,ok,121374,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2.2,2008-12-04,1,1289,,False,True,True,0,2,0,2
+038490.pdf,038,ok,127202,Acrobat Net Distiller 1.0 for Windows,,1999-12-28,30,1148,,False,True,True,0,2,0,2
+038522.pdf,038,ok,356142,,XPP,2002-05-22,4,90,,False,False,True,0,2,0,2
+038526.pdf,038,ok,153082,Acrobat Distiller 4.0 for Windows,,2000-09-12,4,127,,False,True,True,0,2,0,2
+038530.pdf,038,ok,391939,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-08-12,1,247,,False,True,True,0,2,0,2
+038533.pdf,038,ok,214494,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2006-06-29,40,206,,False,True,True,0,2,0,2
+038616.pdf,038,ok,54344,Corel PDF Engine Version 11.4.0.100,PrintServer130,2007-11-02,8,185,,False,False,True,0,2,0,2
+038617.pdf,038,ok,47583,Acrobat Distiller 4.0 for Windows,,2003-03-06,2,413,,False,True,True,0,2,0,2
+038619.pdf,038,ok,431071,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2.2,2007-11-30,1,122,,False,True,True,0,2,0,2
+038620.pdf,038,ok,533853,Acrobat Distiller 5.0 (Windows),Acrobat PDFMaker 5.0 for Word,2004-03-03,1,51,,False,True,True,0,2,0,2
+038621.pdf,038,ok,151448,Corel PDF Engine Version 9.320,POP90,2003-08-04,12,377,,False,False,True,0,2,0,2
+038724.pdf,038,ok,189001,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-10-23,2,155,,False,True,True,0,2,0,2
+038727.pdf,038,ok,853505,Adobe PDF library 8.00,Adobe Illustrator CS3,2008-09-19,2,757,,False,False,True,0,2,0,2
+038785.pdf,038,ok,368023,Acrobat PDFWriter 2.01 for Windows,zxq82e0.tmp,1997-08-12,1,1770,,False,True,True,0,2,0,2
+038786.pdf,038,ok,147199,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2,2004-06-22,4,113,,False,True,True,0,2,0,2
+038787.pdf,038,ok,692769,Acrobat PDFWriter 2.01 for Windows,xijf0c0.tmp,1997-07-09,5,122,,False,True,True,0,2,0,2
+038622.pdf,038,ok,82280,Corel PDF Engine Version 11.410,Print Server 110,2006-01-12,10,86,,False,False,True,0,2,0,2
+038632.pdf,038,ok,1679807,Acrobat Distiller 7.0 (Windows),Adobe Illustrator CS2,2008-01-31,2,60,,False,True,True,0,2,0,2
+038640.pdf,038,ok,2959003,Acrobat Distiller 5.0.5 (Windows),Adobe PageMaker 7.0,2007-10-29,2,66,,False,True,True,0,2,0,2
+038642.pdf,038,ok,1247120,Mac OS X 10.4.11 Quartz PDFContext,,2008-08-29,1,219,,False,False,True,0,2,0,2
+038643.pdf,038,ok,241526,Adobe PDF Library 6.0,Adobe InDesign CS (3.0),2007-04-18,1,256,,False,False,True,0,2,0,2
+038644.pdf,038,ok,75906,Acrobat Distiller Daemon 3.02b for Solaris 2.3 and later (SPARC),Parlance Publisher 5.0/(Xyvision Postscript Formatter) 3.0 3,2000-08-08,2,79,,False,True,True,0,2,0,2
+038645.pdf,038,ok,1010879,,XPP,2005-05-11,3,50,,False,False,True,0,2,0,2
+038868.pdf,038,ok,489796,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2006-09-15,1,120,,False,True,True,0,2,0,2
+038873.pdf,038,ok,220110,Acrobat Distiller 8.0.0 (Windows),Acrobat PDFMaker 8.0 for Word,2008-09-19,1,460,,False,True,True,0,2,0,2
+038908.pdf,038,ok,1168183,Acrobat Distiller 5.0.5 (Windows),AdobePS5.dll Version 5.2,2003-03-14,1,373,,False,True,True,0,2,0,2
+038910.pdf,038,ok,507060,Acrobat Distiller 8.1.0 (Windows),PScript5.dll Version 5.2.2,2008-07-23,1,6468,,False,True,True,0,2,0,2
+038807.pdf,038,ok,23499,Acrobat Distiller 4.05 for Windows,Microsoft Word 8.0,2001-05-24,2,549,,False,True,True,0,2,0,2
+038808.pdf,038,ok,26543,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2005-09-19,1,396,,False,True,True,0,2,0,2
+038819.pdf,038,ok,246860,Acrobat Distiller 5.0 (Windows),AdobePS5.dll Version 5.2,2005-05-11,3,916,,False,True,True,0,2,0,2
+038820.pdf,038,ok,75050,Acrobat PDFWriter 4.05 for Windows,Microsoft Word ,2000-11-06,6,153,,False,True,True,0,2,0,2
+038822.pdf,038,ok,393732,Acrobat Distiller 5.0 (Windows),ADOBEPS4.DRV Version 4.50,2002-03-20,10,280,,False,True,True,0,2,0,2
+038823.pdf,038,ok,447853,Acrobat Distiller 4.0 for Windows,,2000-03-02,2,1888,,False,True,True,0,2,0,2
+038824.pdf,038,ok,1249990,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2006-01-20,3,673,,False,True,True,0,2,0,2
+038652.pdf,038,ok,554300,Acrobat Distiller 3.0 for Power Macintosh,Adobe PageMaker 6.52,1998-04-23,7,2505,,False,True,True,0,2,0,2
+038654.pdf,038,ok,115015,Adobe PDF Library 6.0,Adobe InDesign CS (3.0.1),2005-03-03,1,1693,,False,False,True,0,2,0,2
+038657.pdf,038,ok,1567073,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2007-08-27,7,247,,False,True,True,0,2,0,2
+038702.pdf,038,ok,5037761,NeoOffice 2.2,Impress,2008-09-17,3,577,,False,False,True,0,2,0,2
+038708.pdf,038,ok,700465,Adobe PDF library 5.00,Adobe Illustrator 10.0.3,2008-03-27,3,581,,False,False,True,0,2,0,2
+038709.pdf,038,ok,140712,Acrobat Distiller 4.05 for Windows,Microsoft Word 9.0,2004-03-25,1,67,,False,True,True,0,2,0,2
+038941.pdf,038,ok,116290,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.5 for Word,2006-10-10,1,1306,,False,True,True,0,2,0,2
+038948.pdf,038,ok,253574,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-03-07,1,910,,False,True,True,0,2,0,2
+038963.pdf,038,ok,217022,Acrobat PDFWriter 2.0 for Macintosh,Microsoft Word,1997-10-16,1,255,,False,True,True,0,2,0,2
+038975.pdf,038,ok,477565,Adobe PDF Library 5.0,Adobe InDesign 2.0.2,2004-04-13,1,2295,,False,False,True,0,2,0,2
+038981.pdf,038,ok,495443,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.5 for Word,2006-09-08,1,162,,False,True,True,0,2,0,2
+085002.pdf,085,ok,167243,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2005-08-23,14,134,,False,True,True,0,2,0,2
+085076.pdf,085,ok,317363,Acrobat Distiller 4.05 for Sparc Solaris,,2001-11-13,2,236,,False,True,True,0,2,0,2
+085078.pdf,085,ok,350492,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2.2,2005-03-31,2,1162,,False,True,True,0,2,0,2
+085079.pdf,085,ok,44210,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2005-11-03,2,1369,,False,True,True,0,2,0,2
+085082.pdf,085,ok,1945521,Adobe PDF Library 5.0,Adobe InDesign 2.0.2,2003-10-08,1,91,,False,False,True,0,2,0,2
+085084.pdf,085,ok,22269,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2005-06-03,5,95,,False,True,True,0,2,0,2
+085086.pdf,085,ok,1528951,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2.2,2008-02-15,1,696,,False,True,True,0,2,0,2
+085089.pdf,085,ok,1543362,Acrobat Distiller 5.0.5 (Windows),FrameMaker 7.0,2002-08-21,4,2523,,False,True,True,0,2,0,2
+085094.pdf,085,ok,414118,Acrobat PDFWriter 3.03 for Windows,Capture Reviewer 2.01,2000-03-27,1,2262,,False,True,True,0,2,0,2
+085097.pdf,085,ok,48522,Acrobat Distiller 4.0 for Windows,,2004-03-30,7,972,,False,True,True,0,2,0,2
+085098.pdf,085,ok,34152,Acrobat Distiller 4.0 for Windows,,2004-03-30,3,972,,False,True,True,0,2,0,2
+085157.pdf,085,ok,222272,JAWS PDFLib,activePDF Server,2003-08-01,16,1992,,False,False,True,0,2,0,2
+085259.pdf,085,ok,2051097,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2004-05-05,2,219,,False,True,True,0,2,0,2
+085271.pdf,085,ok,4355245,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2002-11-26,2,58,,False,True,True,0,2,0,2
+085272.pdf,085,ok,158224,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2006-12-21,2,356,,False,True,True,0,2,0,2
+085279.pdf,085,ok,226713,Acrobat Distiller 4.05 for Windows,,2000-08-22,5,1436,,False,True,True,0,2,0,2
+085281.pdf,085,ok,175666,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-09-16,2,261,,False,True,True,0,2,0,2
+085283.pdf,085,ok,2198,,"R and OS php pdf writer, http://www.ros.co.nz",2009-02-08,1,1041,,False,False,True,0,2,0,2
+038912.pdf,038,ok,770320,Acrobat Distiller 6.0 (Windows),Adobe PageMaker 7.0,2007-09-24,2,55,,False,True,True,0,2,0,2
+038914.pdf,038,ok,127387,Acrobat PDFWriter 4.0 for Windows NT,Corel WordPerfect - [C:\PERSONALWEB\NRC\fedworld\working\SECYS-to-post-05072001\SECYS\secy2001-0049\SP01-0049atch4.wpd],2001-05-10,3,962,,False,True,True,0,2,0,2
+038915.pdf,038,ok,499196,Acrobat Distiller 5.00 for Macintosh,PageMaker 7.0,2002-03-20,2,287,,False,True,True,0,2,0,2
+038916.pdf,038,ok,795451,Acrobat Distiller 8.0.0 (Windows),PScript5.dll Version 5.2,2007-05-21,3,76,,False,True,True,0,2,0,2
+038921.pdf,038,ok,137965,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2007-02-20,1,1075,,False,True,True,0,2,0,2
+085163.pdf,085,ok,40994,Acrobat PDFWriter 3.02 for Windows NT,,2002-04-22,5,131,,False,True,True,0,2,0,2
+085166.pdf,085,ok,109290,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2006-03-07,2,50,,False,True,True,0,2,0,2
+085233.pdf,085,ok,1401418,Adobe PDF Library 8.0,Adobe InDesign CS3 (5.0.2),2008-05-05,1,746,,False,False,True,0,2,0,2
+085234.pdf,085,ok,1506372,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2008-06-16,17,295,,False,True,True,0,2,0,2
+085239.pdf,085,ok,65091,Acrobat PDFWriter 5.0 for Windows NT,ADR_explanations_2000 - Microsoft Word,2001-10-26,2,392,,False,True,True,0,2,0,2
+085246.pdf,085,ok,1330696,Acrobat PDFWriter 4.05 for Windows,Microsoft Word ,2002-02-15,2,169,,False,True,True,0,2,0,2
+085248.pdf,085,ok,3661833,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2.2,2006-01-30,1,445,,False,True,True,0,2,0,2
+085252.pdf,085,ok,475857,Normalizer 5.0.5 fmnorm,FrameMaker 7.0,2005-03-29,6,194,,False,False,True,0,2,0,2
+085292.pdf,085,ok,93340,Acrobat PDFWriter 2.01 for Windows,WordPerfect ,1998-04-07,6,1332,,False,True,True,0,2,0,2
+085296.pdf,085,ok,299281,Microsoft® Office Word 2007,Microsoft® Office Word 2007,2008-09-05,12,58,,False,True,True,0,2,0,2
+085300.pdf,085,ok,3828563,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2,2004-07-30,1,171,,False,True,True,0,2,0,2
+085301.pdf,085,ok,134406,Acrobat Distiller 5.0.5 for Macintosh,QuarkXPress.: AdobePS 8.7.2 (104),2002-09-13,1,136,,False,True,True,0,2,0,2
+085555.pdf,085,ok,393485,Hyf PDF Output Library 2.3.0 (Windows),XSL Formatter V3.3 MR1a,2006-02-03,1,5804,,False,False,True,0,2,0,2
+085565.pdf,085,ok,71621,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2007-03-05,2,3911,,False,True,True,0,2,0,2
+085451.pdf,085,ok,36061,Acrobat Distiller 4.0 for Windows,,2004-04-01,2,955,,False,True,True,0,2,0,2
+085459.pdf,085,ok,565220,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2006-08-16,2,72,,False,True,True,0,2,0,2
+085460.pdf,085,ok,198265,Acrobat Distiller 3.01 for Windows,ADOBEPS4.DRV Version 4.10,1998-12-01,1,608,,False,True,True,0,2,0,2
+085464.pdf,085,ok,91001,Acrobat Distiller 5.0.5 (Windows),ACOMP.exe   WinVer 1b43  jul 14 2003,2003-12-01,7,113,,False,True,True,0,2,0,2
+085573.pdf,085,ok,132306,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2006-12-04,6,84,,False,True,True,0,2,0,2
+085581.pdf,085,ok,97427,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2.2,2007-09-24,5,376,,False,True,True,0,2,0,2
+085586.pdf,085,ok,116692,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2,2007-09-24,5,376,,False,True,True,0,2,0,2
+085593.pdf,085,ok,14120,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Excel,2007-10-02,2,94,,False,True,True,0,2,0,2
+085859.pdf,085,ok,17771,Acrobat PDFWriter 5.0 for Windows NT,WordPerfect 9 - [H:\Data\docs\PDF Files\Cartwright FOF & CCL.wpd (unmodified)],2002-03-29,2,334,,False,True,True,0,2,0,2
+085860.pdf,085,ok,335283,Acrobat Distiller 5.0.5 (Windows),Acrobat PDFMaker 5.0 for Word,2003-09-23,2,114,,False,True,True,0,2,0,2
+085862.pdf,085,ok,145668,JAWS PDFLib,activePDF Server,2003-08-01,15,1989,,False,False,True,0,2,0,2
+085863.pdf,085,ok,320318,GNU Ghostscript 7.05,PScript5.dll Version 5.2.2,2008-10-15,1,72,,False,False,True,0,2,0,2
+085871.pdf,085,ok,274502,Adobe Acrobat 7.05 Paper Capture Plug-in,Adobe Acrobat 7.05,2006-08-23,2,3006,,False,True,True,0,2,0,2
+085607.pdf,085,ok,38427,Acrobat Distiller 7.0 (Windows),FrameMaker 7.1,2004-12-17,4,244,,False,True,True,0,2,0,2
+085612.pdf,085,ok,22355,Acrobat Distiller Command 3.01 for Solaris 2.3 and later (SPARC),FrameMaker 5.5.6.,2000-10-13,2,380,,False,True,True,0,2,0,2
+085614.pdf,085,ok,59907,Corel PDF Engine Version 11.4.0.100,PrintServer130,2008-04-03,7,59,,False,False,True,0,2,0,2
+085841.pdf,085,ok,426845,Acrobat Distiller 5.0 (Windows),Paragon Publishing Systems,2002-03-23,1,115,,False,True,True,0,2,0,2
+085843.pdf,085,ok,4513038,Acrobat Distiller 7.0.5 (Windows),,2007-11-26,4,79,,False,True,True,0,2,0,2
+085845.pdf,085,ok,4873902,Acrobat Distiller 7.0.5 (Windows),,2008-05-20,5,71,,False,True,True,0,2,0,2
+085879.pdf,085,ok,116193,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2,2005-09-23,1,184,,False,True,True,0,2,0,2
+085885.pdf,085,ok,456770,Corel PDF Engine Version 11.245,Print Server 110,2004-02-04,6,371,,False,False,True,0,2,0,2
+085991.pdf,085,ok,559266,Acrobat Distiller 6.0.1 for Macintosh,Adobe Acrobat 6.0,2006-01-25,4,1119,,False,True,True,0,2,0,2
+184016.pdf,184,ok,332065,Acrobat Distiller 5.0.5 (Windows),AdobePS5.dll Version 5.2.2,2005-05-05,15,1963,,False,True,True,0,2,0,2
+184199.pdf,184,ok,88523,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2006-09-29,12,56,,False,True,True,0,2,0,2
+184142.pdf,184,ok,571162,Acrobat Distiller 5.0 (Windows),Acrobat PDFMaker 5.0 for Word,2003-02-07,4,58,,False,True,True,0,2,0,2
+184146.pdf,184,ok,92106,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2.2,2005-03-11,1,205,,False,True,True,0,2,0,2
+184149.pdf,184,ok,189520,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-11-16,3,1478,,False,True,True,0,2,0,2
+184181.pdf,184,ok,1102372,Adobe PDF Library 7.0,Adobe InDesign CS2 (4.0.4),2007-04-04,1,374,,False,False,True,0,2,0,2
+184031.pdf,184,ok,52927,Acrobat Net Distiller 1.0 for Windows,,1999-12-14,18,352,,False,True,True,0,2,0,2
+184035.pdf,184,ok,74144,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2.2,2005-08-22,1,785,,False,True,True,0,2,0,2
+184040.pdf,184,ok,84316,,XPP,1999-05-18,2,113,,False,False,True,0,2,0,2
+184042.pdf,184,ok,983190,,,2006-08-24,1,1200,,False,False,True,0,2,0,2
+184068.pdf,184,ok,167689,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2005-05-09,1,445,,False,True,True,0,2,0,2
+184335.pdf,184,ok,125830,Acrobat PDFWriter 3.0.1 for Power Macintosh,Microsoft Word,2002-02-28,1,93,,False,True,True,0,2,0,2
+184338.pdf,184,ok,203995,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2,2006-07-25,3,598,,False,True,True,0,2,0,2
+184365.pdf,184,ok,774677,Acrobat Distiller 6.0.1 for Macintosh,,2005-01-17,1,1661,,False,True,True,0,2,0,2
+184383.pdf,184,ok,121943,Mac OS X 10.1.5 Quartz PDFContext,,2003-03-07,1,66,,False,False,True,0,2,0,2
+184429.pdf,184,ok,53329,Acrobat PDFWriter 5.0 for Windows NT,WordPerfect 10 - [H:\LJM Opinions\EV02-24 Thomas v Evansville-Vanderburgh Schools - or on defs' mot for summ j.wpd],2004-11-10,1,2485,,False,True,True,0,2,0,2
+184438.pdf,184,ok,268686,Acrobat Distiller 7.0 (Windows),3B2 Total Publishing System 8.07e/W,2008-05-19,3,201,,False,True,True,0,2,0,2
+184450.pdf,184,ok,16797,Acrobat PDFWriter 4.0 for Windows,pdfoutline.doc - Microsoft Word,2002-07-11,3,133,,False,True,True,0,2,0,2
+184215.pdf,184,ok,73212,Acrobat PDFWriter 4.05 for Windows NT,Corel WordPerfect - [F:\Admin\TOM\Anualrep.01\ANNUAL01.WPD],2002-03-25,4,152,,False,True,True,0,2,0,2
+184222.pdf,184,ok,92067,Acrobat PDFWriter 4.05 for Windows NT,aaron_burr.doc - Microsoft Word,2002-09-19,1,5425,,False,True,True,0,2,0,2
+184230.pdf,184,ok,816367,Acrobat Distiller 5.0.5 (Windows),Adobe PageMaker 7.0,2004-03-24,5,391,,False,True,True,0,2,0,2
+184620.pdf,184,ok,49149,Acrobat Distiller 8.0.0 (Windows),Acrobat PDFMaker 8.0 for Word,2007-10-09,3,49,,False,True,True,0,2,0,2
+184621.pdf,184,ok,53398,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2007-10-02,3,219,,False,True,True,0,2,0,2
+184632.pdf,184,ok,695676,Mac OS X 10.1.3 Quartz PDFContext,,2002-07-23,1,3675,,False,False,True,0,2,0,2
+184704.pdf,184,ok,240864,Acrobat Distiller 4.0 for Windows,Microsoft Word 8.0,2000-05-01,2,89,,False,True,True,0,2,0,2
+184718.pdf,184,ok,1977725,Corel PDF Engine Version 9.398,POP90,2000-06-01,2,1773,,False,False,True,0,2,0,2
+184719.pdf,184,ok,182515,Acrobat Distiller 3.01 for Windows,,2002-08-19,1,3508,,False,True,True,0,2,0,2
+184527.pdf,184,ok,4195,,"R and OS php pdf writer, http://www.ros.co.nz",2009-02-25,1,776,,False,False,True,0,2,0,2
+184546.pdf,184,ok,1060021,PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 4.05 for Sparc Solaris,XyEnterprise XPP 7.3C.1  Patch #5,2007-03-30,2,47,,False,True,True,0,2,0,2
+184645.pdf,184,ok,98498,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2,2007-08-02,4,53,,False,True,True,0,2,0,2
+184647.pdf,184,ok,456561,JAWS PDFLib,activePDF Server,2003-07-31,6,3422,,False,False,True,0,2,0,2
+184653.pdf,184,ok,1005668,PDFlib PLOP 2.0.0p6 (SunOS)/Acrobat Distiller 4.05 for Sparc Solaris,XyEnterprise XPP 7.3C.1  Patch #5,2007-10-31,2,89,,False,True,True,0,2,0,2
+184655.pdf,184,ok,985820,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2.2,2006-07-26,40,691,,False,True,True,0,2,0,2
+184659.pdf,184,ok,282577,Acrobat Distiller 5.0.5 (Windows),Acrobat PDFMaker 5.0 for Word,2006-04-14,30,193,,False,True,True,0,2,0,2
+184662.pdf,184,ok,303423,Corel PDF Engine Version 11.2.0.239,Print Server 120,2007-11-19,17,777,,False,False,True,0,2,0,2
+184669.pdf,184,ok,857312,Acrobat Distiller 4.0 for Windows,PageMaker 6.5,2002-04-25,2,227,,False,True,True,0,2,0,2
+184701.pdf,184,ok,74022,FDFMerge Lite 5.0.4 Windows SPDF_1096+ May  3 2004,,2003-04-18,10,1418,,False,False,True,0,2,0,2
+184588.pdf,184,ok,293565,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2003-04-09,2,1373,,False,True,True,0,2,0,2
+184589.pdf,184,ok,800086,Acrobat Distiller 7.0 (Windows),Acrobat PDFMaker 7.0 for Word,2007-07-10,1,1081,,False,True,True,0,2,0,2
+184598.pdf,184,ok,3713748,Adobe PDF Library 6.0,Adobe InDesign CS (3.0.1),2008-05-23,2,2219,,False,False,True,0,2,0,2
+184603.pdf,184,ok,56307,Pixel Translations (PIXPDF Ver.1.35),Acrobat 3.0 Import Plug-in,1998-04-14,1,3404,,False,True,True,0,2,0,2
+184604.pdf,184,ok,5513,,"R and OS php pdf writer, http://www.ros.co.nz",2009-02-25,2,159,,False,False,True,0,2,0,2
+184729.pdf,184,ok,3122718,Acrobat Distiller 4.05 for Windows,ACOMP.exe   WinVer 1a68  0ct 09 2002,2005-03-22,3,344,,False,True,True,0,2,0,2
+184735.pdf,184,ok,235268,Acrobat Distiller 5.0.5 (Windows),Acrobat PDFMaker 5.0 for Word,2006-08-30,1,6673,,False,True,True,0,2,0,2
+184736.pdf,184,ok,110361,Acrobat Net Distiller 1.0 for Windows,,2000-11-29,11,1479,,False,True,True,0,2,0,2
+184737.pdf,184,ok,52524,www.adlibsys.com:EXS3145-W2KA,WordPerfect 6.1/2000/2002,2006-01-03,4,57,,False,True,True,0,2,0,2
+184740.pdf,184,ok,2189726,Acrobat Distiller 4.0 for Windows,,2001-03-14,2,74,,False,True,True,0,2,0,2
+184751.pdf,184,ok,161463,Corel PDF Engine Version 10.517,Print Server 100,2003-01-02,1,389,,False,False,True,0,2,0,2
+184804.pdf,184,ok,314781,Acrobat Distiller 8.1.0 (Windows),Acrobat PDFMaker 8.1 for Word,2008-09-04,2,175,,False,True,True,0,2,0,2
+184806.pdf,184,ok,80901,Acrobat Distiller 4.05 for Windows,Microsoft Word 9.0,2004-08-24,3,1051,,False,True,True,0,2,0,2
+184809.pdf,184,ok,233774,Acrobat Distiller 5.0 (Windows),"""Mim2ps v020215""",2002-06-07,1,4541,,False,True,True,0,2,0,2
+184810.pdf,184,ok,344572,Acrobat Distiller 5.0 (Windows),"""Mim2ps v020215""",2002-04-06,1,4479,,False,True,True,0,2,0,2
+184814.pdf,184,ok,313659,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2,2004-07-28,2,70,,False,True,True,0,2,0,2
+184815.pdf,184,ok,513551,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,1,1632,,False,False,True,0,2,0,2
+184818.pdf,184,ok,581639,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,2,708,,False,False,True,0,2,0,2
+184821.pdf,184,ok,112448,Acrobat PDFWriter 4.0 for Windows,Microsoft Word ,2000-11-09,5,50,,False,True,True,0,2,0,2
+184841.pdf,184,ok,324892,Adobe PDF Library 6.0,Adobe InDesign CS (3.0),2002-05-13,3,830,,False,False,True,0,2,0,2
+184940.pdf,184,ok,304795,Acrobat Distiller Command 3.02b for Solaris 2.3 and later (SPARC),Parlance Publisher 5.0/(Xyvision Postscript Formatter) 3.0 3,2000-11-21,2,77,,False,True,True,0,2,0,2
+184944.pdf,184,ok,472257,StampPDF Batch 2.7 for Solaris - SPDF 1045,XPP,2005-02-07,2,67,,False,False,True,0,2,0,2
+184947.pdf,184,ok,535187,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,2,854,,False,False,True,0,2,0,2
+184976.pdf,184,ok,50345,Acrobat PDFWriter 4.05 for Windows,Microsoft Word ,2002-03-07,1,68,,False,True,True,0,2,0,2
+184983.pdf,184,ok,1273923,,,2008-06-06,1,114,,False,False,True,0,2,0,2
+184985.pdf,184,ok,538927,Antenna House PDF Output Library 2.4.0 (Linux),"XSL Formatter V4.1 MR5 (4,1,2007,0509) for Linux",2008-09-18,2,333,,False,False,True,0,2,0,2
+202198.pdf,202,ok,54421,Acrobat Distiller 5.0 (Windows),ADOBEPS4.DRV Version 4.50,2002-08-11,1,297,,False,True,True,0,2,0,2
+202201.pdf,202,ok,2627134,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2008-10-31,5,493,,False,True,True,0,2,0,2
+202203.pdf,202,ok,47046,Acrobat Distiller 4.05 for Windows,,2000-06-29,4,105,,False,True,True,0,2,0,2
+202205.pdf,202,ok,86715,JAWS PDFLib,Server http://www.activepdf.com,2008-08-06,7,251,,False,False,True,0,2,0,2
+202211.pdf,202,ok,35519,Acrobat Distiller 7.0.5 (Windows),,2007-11-13,3,112,,False,True,True,0,2,0,2
+202138.pdf,202,ok,333026,Acrobat Distiller 6.0 (Windows),PScript5.dll Version 5.2,2004-04-12,2,328,,False,True,True,0,2,0,2
+202182.pdf,202,ok,88964,FDFMerge Lite 5.0.4 Windows SPDF_1096+ May  3 2004,,2003-04-18,14,2696,,False,False,True,0,2,0,2
+202183.pdf,202,ok,3366537,,,2006-03-17,5,562,,False,False,True,0,2,0,2
+202184.pdf,202,ok,241597,FDFMerge Lite 5.0.4 Windows SPDF_1096+ May  3 2004,Accident Data Management System,2003-12-11,4,309,,False,False,True,0,2,0,2
+202214.pdf,202,ok,88172,Corel PDF Engine Version 11.2.0.239,Print Server 120,2005-02-28,10,994,,False,False,True,0,2,0,2
+202217.pdf,202,ok,56309,Corel PDF Engine Version 11.321,Print Server 110,2007-09-26,9,238,,False,False,True,0,2,0,2
+202219.pdf,202,ok,50815,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2.2,2006-10-18,2,1206,,False,True,True,0,2,0,2
+202220.pdf,202,ok,222027,Acrobat Distiller 5.0 (Windows),Acrobat PDFMaker 5.0 for Word,2003-01-16,1,134,,False,True,True,0,2,0,2
+202221.pdf,202,ok,24626,Data Dynamics ActiveReports (tm) for .NET,Data Dynamics ActiveReports (tm) for .NET,2008-03-28,2,332,,False,False,True,0,2,0,2
+202224.pdf,202,ok,4454982,Acrobat Distiller 5.0 (Windows),ACOMP.exe V010   11-MAY-2000,2002-11-22,4,389,,False,True,True,0,2,0,2
+202225.pdf,202,ok,550468,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2006-09-18,1,176,,False,True,True,0,2,0,2
+202232.pdf,202,ok,61946,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2006-03-11,1,115,,False,True,True,0,2,0,2
+202287.pdf,202,ok,467576,Acrobat Distiller 2.1 for Windows,,1997-11-04,2,1132,,False,True,True,0,2,0,2
+202364.pdf,202,ok,47765,Acrobat Distiller 4.0 for Windows,,2003-03-26,1,316,,False,True,True,0,2,0,2
+202456.pdf,202,ok,29655,Acrobat Distiller 5.0.5 (Windows),ACOMP.exe   WinVer 1c4  May 21 2004,2004-09-27,8,61,,False,True,True,0,2,0,2
+202373.pdf,202,ok,51933,Acrobat Distiller 4.0 for Windows,,2003-03-26,4,316,,False,True,True,0,2,0,2
+202379.pdf,202,ok,15926,Acrobat Distiller 3.01 for Windows,Windows NT 4.0,1999-07-28,9,185,,False,True,True,0,2,0,2
+202383.pdf,202,ok,50135,Acrobat Distiller 4.05 for Windows,,2000-06-28,4,1444,,False,True,True,0,2,0,2
+184957.pdf,184,ok,167467,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2004-02-25,5,47,,False,True,True,0,2,0,2
+184966.pdf,184,ok,49067,Acrobat Distiller 4.0 for Macintosh,,2001-05-19,5,123,,False,True,True,0,2,0,2
+184972.pdf,184,ok,3702187,捁潲慢⁴⸴㔰䤠灭牯⁴汐杵椭潦楗摮睯s,Acrobat 4.05 Capture Plug-in for Windows,2000-06-29,1,1892,,False,True,True,0,2,0,2
+202542.pdf,202,ok,122471,Acrobat Distiller 5.0.5 for Macintosh,Textures.: LaserWriter 8 8.6.5,2005-02-17,2,795,,False,True,True,0,2,0,2
+202544.pdf,202,ok,375923,Acrobat Distiller 5.0.5 (Windows),PScript5.dll Version 5.2,2007-08-10,5,127,,False,True,True,0,2,0,2
+202559.pdf,202,ok,97732,APSetDocInfo 1.9 Solaris SPDF_1086 Aug  7 2003,,2002-10-28,4,757,,False,False,True,0,2,0,2
+202565.pdf,202,ok,269499,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2,2003-09-09,1,761,,False,True,True,0,2,0,2
+202745.pdf,202,ok,845592,Acrobat Distiller 4.05 for Sparc Solaris,,2006-04-13,3,98,,False,True,True,0,2,0,2
+202747.pdf,202,ok,144091,Acrobat Distiller 5.0 (Windows),PScript5.dll Version 5.2,2005-08-31,1,386,,False,True,True,0,2,0,2
+202943.pdf,202,ok,948946,Acrobat PDFWriter 4.0 for Windows,Microsoft Word ,2003-02-04,1,914,,False,True,True,0,2,0,2
+202953.pdf,202,ok,54344,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2006-09-12,2,1769,,False,True,True,0,2,0,2
+202954.pdf,202,ok,74909,Corel PDF Engine Version 10.990,Print Server 100,2005-08-26,7,1129,,False,False,True,0,2,0,2
+202956.pdf,202,ok,222689,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2008-11-17,1,70,,False,True,True,0,2,0,2
+202969.pdf,202,ok,399851,Acrobat Distiller 8.0.0 (Windows),PScript5.dll Version 5.2,2008-11-06,1,8416,,False,True,True,0,2,0,2
+334000.pdf,334,ok,73199,Acrobat Elements 7.0.5 (Windows),PScript5.dll Version 5.2.2,2006-11-16,40,2147,,False,True,True,0,2,0,2
+334021.pdf,334,ok,17778,Acrobat Distiller 4.05 for Windows,,2000-06-28,4,938,,False,True,True,0,2,0,2
+334024.pdf,334,ok,310698,Acrobat Distiller 5.0.5 (Windows),AdobePS5.dll Version 5.2.2,2005-09-20,2,432,,False,True,True,0,2,0,2
+202757.pdf,202,ok,802530,Acrobat Distiller 4.05 for Sparc Solaris,,2006-04-13,3,185,,False,True,True,0,2,0,2
+202769.pdf,202,ok,575881,Acrobat Distiller 6.0.1 (Windows),PScript5.dll Version 5.2,2006-02-23,1,51,,False,True,True,0,2,0,2
+334142.pdf,334,ok,1637370,Acrobat Distiller 5.0.5 for Macintosh,QuarkXPress(tm) 5.01,2003-06-11,1,1350,,False,True,True,0,2,0,2
+202501.pdf,202,ok,258071,GPL Ghostscript 8.61,PDFCreator Version 0.9.5,2009-02-18,20,203,,False,False,True,0,2,0,2
+202503.pdf,202,ok,21798,Acrobat Net Distiller 1.0 for Windows,,1999-12-13,11,407,,False,True,True,0,2,0,2
+202528.pdf,202,ok,21826,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2007-05-23,3,658,,False,True,True,0,2,0,2
+202781.pdf,202,ok,59658,Acrobat Distiller 7.0 (Windows),PScript5.dll Version 5.2,2005-08-17,21,1603,,False,True,True,0,2,0,2
+202784.pdf,202,ok,229746,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-10-26,3,665,,False,True,True,0,2,0,2
+334335.pdf,334,ok,50392,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-08-21,2,3795,,False,True,True,0,2,0,2
+334341.pdf,334,ok,15986,Acrobat PDFWriter 4.0 for Windows,prt573v2                          [PFP#790035076],1999-07-01,2,822,,False,True,True,0,2,0,2
+334348.pdf,334,ok,2478234,Acrobat Distiller 6.0 (Windows),FrameMaker 7.1,2005-12-01,1,58,,False,True,True,0,2,0,2
+334361.pdf,334,ok,32889,Acrobat Distiller 5.0.5 (Windows),ACOMP.exe   WinVer 1b43  jul 14 2003,2004-05-13,4,266,,False,True,True,0,2,0,2
+334362.pdf,334,ok,37097,Acrobat Distiller 4.0 for Windows,,2003-12-05,2,942,,False,True,True,0,2,0,2
+334364.pdf,334,ok,2984796,Acrobat Distiller 6.0 (Windows),FrameMaker 7.1,2005-12-01,1,58,,False,True,True,0,2,0,2
+334365.pdf,334,ok,140716,Acrobat Distiller 2.1b5 for Windows,,1997-05-04,1,207,,False,True,True,0,2,0,2
+334477.pdf,334,ok,287679,Adobe PDF Library 4.0,Acrobat Capture 3.0,2003-04-25,1,6828,,False,True,True,0,2,0,2
+334509.pdf,334,ok,81746,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2,2005-11-21,11,46,,False,True,True,0,2,0,2
+334510.pdf,334,ok,95768,Acrobat Distiller 4.05 for Windows,,2000-06-30,3,1600,,False,True,True,0,2,0,2
+334331.pdf,334,ok,333347,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.5 for Word,2006-01-20,1,106,,False,True,True,0,2,0,2
+334590.pdf,334,ok,195912,Acrobat Distiller 8.0.0 (Windows),Acrobat PDFMaker 8.0 for Word,2007-07-05,17,162,,False,True,True,0,2,0,2
+334592.pdf,334,ok,135664,Acrobat Distiller 6.0 (Windows),Acrobat PDFMaker 6.0 for Word,2006-04-24,3,78,,False,True,True,0,2,0,2
+334598.pdf,334,ok,13444,Acrobat PDFWriter 4.0 for Windows,Microsoft Word ,2000-02-22,1,53,,False,True,True,0,2,0,2
+334602.pdf,334,ok,727590,,ABBYY FineReader,2004-02-23,2,6880,,False,False,True,0,2,0,2
+334637.pdf,334,ok,169908,www.adlibsoftware.com:EXS3181-Windows 2003:TNG,MS Office Data (Ole & BIFF),2008-01-25,4,94,,False,False,True,0,2,0,2
+334676.pdf,334,ok,285227,Acrobat Distiller 6.0.1 (Windows),Acrobat PDFMaker 6.0 for Word,2005-06-28,1,2861,,False,True,True,0,2,0,2
+334697.pdf,334,ok,64298,Acrobat Distiller 6.0 (Windows),FrameMaker 7.0,2005-01-26,9,268,,False,True,True,0,2,0,2
+334719.pdf,334,ok,751688,Acrobat Net Distiller 1.0 for Windows,,1999-03-04,8,87,,False,True,True,0,2,0,2
+334747.pdf,334,ok,1652845,Acrobat Distiller 4.0 for Macintosh,QuarkXPressª 4.1: AdobePS 8.7.0,2001-10-12,1,569,,False,True,True,0,2,0,2
+334757.pdf,334,ok,3646696,Acrobat Distiller 7.0.5 (Windows),PScript5.dll Version 5.2.2,2008-06-03,1,1951,,False,True,True,0,2,0,2
+334031.pdf,334,ok,615316,Acrobat Distiller 7.0.5 (Windows),Acrobat PDFMaker 7.0.7 for Word,2007-07-24,6,193,,False,True,True,0,2,0,2
+334032.pdf,334,ok,3143948,Acrobat Web Capture 4.0,,2003-03-25,2,1833,,False,True,True,0,2,0,2
+334033.pdf,334,ok,172430,Microsoft® Office Word 2007,Microsoft® Office Word 2007,2008-11-07,3,100,,False,True,True,0,2,0,2
+334040.pdf,334,ok,48320,Acrobat PDFWriter 5.0 for Windows NT,WordPerfect 10 - [C:\Documents and Settings\James Fleming\Desktop\To Be Posted\Westfalia.wpd],2004-01-12,10,77,,False,True,True,0,2,0,2
+334051.pdf,334,ok,20564,Acrobat PDFWriter 4.0 for Windows,Microsoft Word ,2001-04-03,5,1277,,False,True,True,0,2,0,2

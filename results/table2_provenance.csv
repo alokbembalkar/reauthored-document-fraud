@@ -1,0 +1,4 @@
+arm,n,flagged,flag_rate_%,conviction,review,meaning
+genuine,3000,0,0.0,0,0,false positives
+forged_inplace,75,75,100.0,0,75,correct detections
+forged_reauthored,75,75,100.0,75,0,correct detections

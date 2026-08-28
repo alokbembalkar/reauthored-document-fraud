@@ -1,0 +1,5 @@
+policy,desktop,n,rate_%,wilson_lo_%,wilson_hi_%,govdocs1_2008_rate_%
+P0_published,4203049,7932654,52.984,52.949,53.019,80.2
+P1_converter_excl,2628028,7932654,33.129,33.096,33.162,2.5
+P2_authoring_only,1957195,7932654,24.673,24.643,24.703,1.1
+P3_author_or_editor,2144000,7932654,27.028,26.997,27.058,1.1

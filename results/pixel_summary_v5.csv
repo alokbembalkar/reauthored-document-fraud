@@ -1,0 +1,19 @@
+kind,name,n,k,value,ci_lo,ci_hi,note
+arm,A original,1002,508,50.70,47.61,53.79,
+arm,B edited,1002,509,50.80,47.71,53.88,
+arm,C reauthored,1002,921,91.92,90.06,93.45,
+arm,D reauth_ctrl,1002,917,91.52,89.63,93.09,
+auc,POSITIVE CONTROL  B vs A,1002,,0.5024,0.4954,0.5095,
+auc,THE CLAIM         C vs D,1002,,0.5119,0.4997,0.5242,
+auc,(confounded)      C vs A,1002,,0.8847,0.8703,0.8989,
+genre,email,182,126,0.4984,,,
+genre,letter,167,72,0.4922,,,
+genre,form,163,93,0.5020,,,
+genre,memo,160,70,0.4796,,,
+genre,scientific_report,130,61,0.5239,,,
+genre,specification,122,48,0.5132,,,
+genre,invoice,68,35,0.5298,,,
+tamper_bin,Q1 smallest,250,,0.5091,0.0115,0.1389,pct px tampered
+tamper_bin,Q2,250,,0.4968,0.1391,0.2830,pct px tampered
+tamper_bin,Q3,250,,0.4862,0.2849,0.5293,pct px tampered
+tamper_bin,Q4 largest,252,,0.5183,0.5293,22.3038,pct px tampered

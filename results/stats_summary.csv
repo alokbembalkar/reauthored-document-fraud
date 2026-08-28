@@ -1,0 +1,8 @@
+arm,n,flagged,rate_%,wilson_lo_%,wilson_hi_%
+genuine,3000,0,0.0,0.0,0.1
+forged_inplace,75,75,100.0,95.1,100
+forged_reauthored,75,75,100.0,95.1,100
+careful/L0_naive,200,200,100.0,98.1,100
+careful/L1_producer_spoof,200,0,0.0,0,1.9
+careful/L2_date_spoof,200,200,100.0,98.1,100
+careful/L3_full_coherent,200,0,0.0,0,1.9

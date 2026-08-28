@@ -1,0 +1,17 @@
+The corpora under corpus/ and the result CSVs under results/ are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Acxiom Technologies LLP
+
+All documents in corpus/ are synthetic. They carry invented identities,
+invented organisations and invented identifiers, and contain no personal data
+and no customer data. The forged arms are generated artefacts built to measure
+detector behaviour; they are not copies of, and do not reproduce, any real
+document.
+
+If you use the corpus, please cite:
+
+    A. Bembalkar, "Beyond Edit Traces: Re-Authored Document Fraud and the
+    Limits of Provenance Coherence."
