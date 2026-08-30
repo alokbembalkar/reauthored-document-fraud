@@ -5,6 +5,12 @@ authors:
   - family-names: Bembalkar
     given-names: Alok
     affiliation: "Acxiom Technologies LLP, Mumbai, Maharashtra, India"
+    orcid: "https://orcid.org/0009-0001-2007-3851"
+  - family-names: Deshpande
+    given-names: Pallavi
+    name-suffix: PhD
+    affiliation: "Department of Management, Garware College of Commerce, Pune, Maharashtra, India"
+    orcid: "https://orcid.org/0000-0002-7726-3939"
 license: MIT
 preferred-citation:
   type: article
@@ -12,4 +18,8 @@ preferred-citation:
   authors:
     - family-names: Bembalkar
       given-names: Alok
+      orcid: "https://orcid.org/0009-0001-2007-3851"
+    - family-names: Deshpande
+      given-names: Pallavi
+      orcid: "https://orcid.org/0000-0002-7726-3939"
   year: 2026
