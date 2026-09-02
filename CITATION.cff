@@ -1,6 +1,20 @@
 cff-version: 1.2.0
 message: "If you use this corpus or code, please cite the paper."
 title: "Re-Authored Document Fraud: corpus and evaluation code"
+type: software
+version: "1.0"
+date-released: 2026-08-30
+license: MIT
+repository-code: "https://github.com/alokbembalkar/reauthored-document-fraud"
+url: "https://doi.org/10.5281/zenodo.22172485"
+doi: 10.5281/zenodo.22172485
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22172485
+    description: "Concept DOI, resolves to the latest version. Cite this one."
+  - type: doi
+    value: 10.5281/zenodo.22172486
+    description: "Version DOI for the v1.0 archive."
 authors:
   - family-names: Bembalkar
     given-names: Alok
@@ -11,7 +25,6 @@ authors:
     name-suffix: PhD
     affiliation: "Department of Management, Garware College of Commerce, Pune, Maharashtra, India"
     orcid: "https://orcid.org/0000-0002-7726-3939"
-license: MIT
 preferred-citation:
   type: article
   title: "Beyond Edit Traces: Re-Authored Document Fraud and the Limits of Provenance Coherence"
@@ -23,3 +36,4 @@ preferred-citation:
       given-names: Pallavi
       orcid: "https://orcid.org/0000-0002-7726-3939"
   year: 2026
+  notes: "Under review at Forensic Science International: Digital Investigation. Update this entry with the journal, volume and DOI on acceptance."
